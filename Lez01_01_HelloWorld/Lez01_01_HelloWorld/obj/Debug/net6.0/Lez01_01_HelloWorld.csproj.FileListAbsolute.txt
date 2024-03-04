@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\bin\Debug\net6.0\Lez01_01_HelloWorld.exe
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\bin\Debug\net6.0\Lez01_01_HelloWorld.deps.json
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\bin\Debug\net6.0\Lez01_01_HelloWorld.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\bin\Debug\net6.0\Lez01_01_HelloWorld.dll
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\bin\Debug\net6.0\Lez01_01_HelloWorld.pdb
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\Lez01_01_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\Lez01_01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\Lez01_01_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\Lez01_01_HelloWorld.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\Lez01_01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\Lez01_01_HelloWorld.dll
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\refint\Lez01_01_HelloWorld.dll
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\Lez01_01_HelloWorld.pdb
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\Lez01_01_HelloWorld.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez01_01_HelloWorld\Lez01_01_HelloWorld\obj\Debug\net6.0\ref\Lez01_01_HelloWorld.dll
