@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\bin\Debug\net6.0\Lez01_02_ControlliSemplici.exe
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\bin\Debug\net6.0\Lez01_02_ControlliSemplici.deps.json
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\bin\Debug\net6.0\Lez01_02_ControlliSemplici.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\bin\Debug\net6.0\Lez01_02_ControlliSemplici.dll
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\bin\Debug\net6.0\Lez01_02_ControlliSemplici.pdb
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\Lez01_02_ControlliSemplici.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\Lez01_02_ControlliSemplici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\Lez01_02_ControlliSemplici.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\Lez01_02_ControlliSemplici.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\Lez01_02_ControlliSemplici.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\Lez01_02_ControlliSemplici.dll
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\refint\Lez01_02_ControlliSemplici.dll
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\Lez01_02_ControlliSemplici.pdb
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\Lez01_02_ControlliSemplici.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez01_02_ControlliSemplici\Lez01_02_ControlliSemplici\obj\Debug\net6.0\ref\Lez01_02_ControlliSemplici.dll
