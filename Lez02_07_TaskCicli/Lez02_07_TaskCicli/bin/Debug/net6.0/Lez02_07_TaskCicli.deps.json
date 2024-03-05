@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lez02_07_TaskCicli/1.0.0": {
+        "runtime": {
+          "Lez02_07_TaskCicli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lez02_07_TaskCicli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

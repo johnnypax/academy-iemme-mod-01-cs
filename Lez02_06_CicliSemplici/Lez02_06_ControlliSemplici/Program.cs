@@ -56,12 +56,21 @@
                 Console.WriteLine("Inserisci il tuo nome o digita Q per uscire");
                 string? inputUtente = Console.ReadLine();
 
-                if (inputUtente != null && inputUtente.Equals("Q"))
+                if (inputUtente is not null && inputUtente.Equals("Q"))
                     inserimentoAbilitato = false;
                 else
                     Console.WriteLine($"Ciao {inputUtente}");
             }
 
+
+            /*
+             * Scrivere un sistema di gestione invitati alla propria festa.
+             * L'inserimento avviene tramite console che prende in input (in due tempi diversi)
+             * il nome ed il cognome.
+             * 
+             * All'uscita del programma verrà stampato l'elenco delle persone precedentemente
+             * inserita, separate da virgola.
+             */
         }
     }
 }

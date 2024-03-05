@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\bin\Debug\net6.0\Lez02_07_TaskCicli.exe
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\bin\Debug\net6.0\Lez02_07_TaskCicli.deps.json
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\bin\Debug\net6.0\Lez02_07_TaskCicli.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\bin\Debug\net6.0\Lez02_07_TaskCicli.dll
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\bin\Debug\net6.0\Lez02_07_TaskCicli.pdb
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\Lez02_07_TaskCicli.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\Lez02_07_TaskCicli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\Lez02_07_TaskCicli.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\Lez02_07_TaskCicli.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\Lez02_07_TaskCicli.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\Lez02_07_TaskCicli.dll
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\refint\Lez02_07_TaskCicli.dll
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\Lez02_07_TaskCicli.pdb
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\Lez02_07_TaskCicli.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez02_07_TaskCicli\Lez02_07_TaskCicli\obj\Debug\net6.0\ref\Lez02_07_TaskCicli.dll

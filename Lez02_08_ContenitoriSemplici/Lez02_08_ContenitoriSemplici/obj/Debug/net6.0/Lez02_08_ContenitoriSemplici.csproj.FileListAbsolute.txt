@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\bin\Debug\net6.0\Lez02_08_ContenitoriSemplici.exe
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\bin\Debug\net6.0\Lez02_08_ContenitoriSemplici.deps.json
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\bin\Debug\net6.0\Lez02_08_ContenitoriSemplici.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\bin\Debug\net6.0\Lez02_08_ContenitoriSemplici.dll
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\bin\Debug\net6.0\Lez02_08_ContenitoriSemplici.pdb
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\Lez02_08_ContenitoriSemplici.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\Lez02_08_ContenitoriSemplici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\Lez02_08_ContenitoriSemplici.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\Lez02_08_ContenitoriSemplici.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\Lez02_08_ContenitoriSemplici.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\Lez02_08_ContenitoriSemplici.dll
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\refint\Lez02_08_ContenitoriSemplici.dll
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\Lez02_08_ContenitoriSemplici.pdb
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\Lez02_08_ContenitoriSemplici.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez02_08_ContenitoriSemplici\Lez02_08_ContenitoriSemplici\obj\Debug\net6.0\ref\Lez02_08_ContenitoriSemplici.dll
