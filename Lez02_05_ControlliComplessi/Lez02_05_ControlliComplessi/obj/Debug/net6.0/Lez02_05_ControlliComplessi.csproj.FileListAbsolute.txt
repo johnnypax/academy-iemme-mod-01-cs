@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\bin\Debug\net6.0\Lez02_05_ControlliComplessi.exe
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\bin\Debug\net6.0\Lez02_05_ControlliComplessi.deps.json
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\bin\Debug\net6.0\Lez02_05_ControlliComplessi.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\bin\Debug\net6.0\Lez02_05_ControlliComplessi.dll
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\bin\Debug\net6.0\Lez02_05_ControlliComplessi.pdb
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\Lez02_05_ControlliComplessi.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\Lez02_05_ControlliComplessi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\Lez02_05_ControlliComplessi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\Lez02_05_ControlliComplessi.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\Lez02_05_ControlliComplessi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\Lez02_05_ControlliComplessi.dll
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\refint\Lez02_05_ControlliComplessi.dll
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\Lez02_05_ControlliComplessi.pdb
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\Lez02_05_ControlliComplessi.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez02_05_ControlliComplessi\Lez02_05_ControlliComplessi\obj\Debug\net6.0\ref\Lez02_05_ControlliComplessi.dll

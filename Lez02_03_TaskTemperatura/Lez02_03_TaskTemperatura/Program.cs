@@ -14,15 +14,38 @@
              * sopra dei 42 eviterei l'ingresso al ristorante.
              */
 
-            float temp = 36.5f;
+            //float temp = 36.5f;
 
-            if (temp >= 35.0f && temp <= 42.0f)
-                if (temp < 37.5f)
-                    Console.WriteLine("Puoi entrare");
+            //if (temp >= 35.0f && temp <= 42.0f)
+            //    if (temp < 37.5f)
+            //        Console.WriteLine("Puoi entrare");
+            //    else
+            //        Console.WriteLine("Non puoi entrare");
+            //else
+            //    Console.WriteLine("Errore di validazione");
+
+            //--------------------------------------------------------------------
+
+            Console.WriteLine("Inserisci la temperatura");
+
+            try
+            {
+                string? inputUtente = Console.ReadLine();
+
+                double temp = Convert.ToDouble(inputUtente);
+
+                if (temp >= 35.0f && temp <= 42.0f)
+                    if (temp < 37.5f)
+                        Console.WriteLine("Puoi entrare");
+                    else
+                        Console.WriteLine("Non puoi entrare");
                 else
-                    Console.WriteLine("Non puoi entrare");
-            else
-                Console.WriteLine("Errore di validazione");
+                    Console.WriteLine("Errore di validazione");
+
+            } catch(Exception ex)
+            {
+                Console.WriteLine($"Errore: {ex.Message}");
+            }            
         }
     }
 }

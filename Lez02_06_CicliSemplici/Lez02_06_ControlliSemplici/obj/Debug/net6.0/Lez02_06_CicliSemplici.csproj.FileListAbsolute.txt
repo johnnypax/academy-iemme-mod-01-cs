@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\bin\Debug\net6.0\Lez02_06_CicliSemplici.exe
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\bin\Debug\net6.0\Lez02_06_CicliSemplici.deps.json
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\bin\Debug\net6.0\Lez02_06_CicliSemplici.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\bin\Debug\net6.0\Lez02_06_CicliSemplici.dll
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\bin\Debug\net6.0\Lez02_06_CicliSemplici.pdb
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\Lez02_06_CicliSemplici.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\Lez02_06_CicliSemplici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\Lez02_06_CicliSemplici.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\Lez02_06_CicliSemplici.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\Lez02_06_CicliSemplici.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\Lez02_06_CicliSemplici.dll
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\refint\Lez02_06_CicliSemplici.dll
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\Lez02_06_CicliSemplici.pdb
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\Lez02_06_CicliSemplici.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez02_06_CicliSemplici\Lez02_06_ControlliSemplici\obj\Debug\net6.0\ref\Lez02_06_CicliSemplici.dll
