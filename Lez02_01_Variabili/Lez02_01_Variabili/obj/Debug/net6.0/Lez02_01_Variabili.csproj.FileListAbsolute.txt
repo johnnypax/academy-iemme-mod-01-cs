@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net6.0\Lez02_01_Variabili.exe
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net6.0\Lez02_01_Variabili.deps.json
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net6.0\Lez02_01_Variabili.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net6.0\Lez02_01_Variabili.dll
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\bin\Debug\net6.0\Lez02_01_Variabili.pdb
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\Lez02_01_Variabili.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\Lez02_01_Variabili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\Lez02_01_Variabili.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\Lez02_01_Variabili.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\Lez02_01_Variabili.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\Lez02_01_Variabili.dll
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\refint\Lez02_01_Variabili.dll
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\Lez02_01_Variabili.pdb
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\Lez02_01_Variabili.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez02_01_Variabili\Lez02_01_Variabili\obj\Debug\net6.0\ref\Lez02_01_Variabili.dll
