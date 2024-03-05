@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\bin\Debug\net6.0\Lez02_03_TaskTemperatura.exe
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\bin\Debug\net6.0\Lez02_03_TaskTemperatura.deps.json
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\bin\Debug\net6.0\Lez02_03_TaskTemperatura.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\bin\Debug\net6.0\Lez02_03_TaskTemperatura.dll
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\bin\Debug\net6.0\Lez02_03_TaskTemperatura.pdb
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\Lez02_03_TaskTemperatura.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\Lez02_03_TaskTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\Lez02_03_TaskTemperatura.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\Lez02_03_TaskTemperatura.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\Lez02_03_TaskTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\Lez02_03_TaskTemperatura.dll
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\refint\Lez02_03_TaskTemperatura.dll
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\Lez02_03_TaskTemperatura.pdb
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\Lez02_03_TaskTemperatura.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez02_03_TaskTemperatura\Lez02_03_TaskTemperatura\obj\Debug\net6.0\ref\Lez02_03_TaskTemperatura.dll

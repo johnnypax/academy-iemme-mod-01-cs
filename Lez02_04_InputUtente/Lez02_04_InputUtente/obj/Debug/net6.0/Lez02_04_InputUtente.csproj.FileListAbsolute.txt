@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\bin\Debug\net6.0\Lez02_04_InputUtente.exe
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\bin\Debug\net6.0\Lez02_04_InputUtente.deps.json
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\bin\Debug\net6.0\Lez02_04_InputUtente.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\bin\Debug\net6.0\Lez02_04_InputUtente.dll
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\bin\Debug\net6.0\Lez02_04_InputUtente.pdb
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\Lez02_04_InputUtente.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\Lez02_04_InputUtente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\Lez02_04_InputUtente.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\Lez02_04_InputUtente.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\Lez02_04_InputUtente.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\Lez02_04_InputUtente.dll
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\refint\Lez02_04_InputUtente.dll
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\Lez02_04_InputUtente.pdb
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\Lez02_04_InputUtente.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez02_04_InputUtente\Lez02_04_InputUtente\obj\Debug\net6.0\ref\Lez02_04_InputUtente.dll
