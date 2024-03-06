@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\bin\Debug\net6.0\Lez03_01_CorrezioneTask.exe
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\bin\Debug\net6.0\Lez03_01_CorrezioneTask.deps.json
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\bin\Debug\net6.0\Lez03_01_CorrezioneTask.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\bin\Debug\net6.0\Lez03_01_CorrezioneTask.dll
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\bin\Debug\net6.0\Lez03_01_CorrezioneTask.pdb
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\Lez03_01_CorrezioneTask.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\Lez03_01_CorrezioneTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\Lez03_01_CorrezioneTask.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\Lez03_01_CorrezioneTask.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\Lez03_01_CorrezioneTask.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\Lez03_01_CorrezioneTask.dll
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\refint\Lez03_01_CorrezioneTask.dll
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\Lez03_01_CorrezioneTask.pdb
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\Lez03_01_CorrezioneTask.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez03_01_CorrezioneTask\Lez03_01_CorrezioneTask\obj\Debug\net6.0\ref\Lez03_01_CorrezioneTask.dll

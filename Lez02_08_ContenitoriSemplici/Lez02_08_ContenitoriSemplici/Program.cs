@@ -85,6 +85,20 @@
              * Trasformarla in un array evitando le ripetizioni.
              */
 
+            //---------------------------------------
+
+            string lista = "Giovanni, Valeria, Marika, Mario, Valeria";
+
+            string[] arrayNomi = lista.Split(", ");
+
+            string nomeDaCercare = "marika";
+
+            foreach(string nome in arrayNomi)
+            {
+                if( nome.ToUpper().Equals(nomeDaCercare.ToUpper()) )
+                    Console.WriteLine($"Ho trovato {nome}");
+            }
+
         }
     }
 }
