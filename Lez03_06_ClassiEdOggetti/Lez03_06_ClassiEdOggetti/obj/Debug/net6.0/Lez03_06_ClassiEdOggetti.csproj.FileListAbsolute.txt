@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\bin\Debug\net6.0\Lez03_06_ClassiEdOggetti.exe
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\bin\Debug\net6.0\Lez03_06_ClassiEdOggetti.deps.json
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\bin\Debug\net6.0\Lez03_06_ClassiEdOggetti.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\bin\Debug\net6.0\Lez03_06_ClassiEdOggetti.dll
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\bin\Debug\net6.0\Lez03_06_ClassiEdOggetti.pdb
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\Lez03_06_ClassiEdOggetti.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\Lez03_06_ClassiEdOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\Lez03_06_ClassiEdOggetti.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\Lez03_06_ClassiEdOggetti.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\Lez03_06_ClassiEdOggetti.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\Lez03_06_ClassiEdOggetti.dll
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\refint\Lez03_06_ClassiEdOggetti.dll
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\Lez03_06_ClassiEdOggetti.pdb
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\Lez03_06_ClassiEdOggetti.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez03_06_ClassiEdOggetti\Lez03_06_ClassiEdOggetti\obj\Debug\net6.0\ref\Lez03_06_ClassiEdOggetti.dll

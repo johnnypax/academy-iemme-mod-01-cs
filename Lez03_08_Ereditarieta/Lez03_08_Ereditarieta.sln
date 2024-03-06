@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lez03_08_Ereditarieta", "Lez03_08_Ereditarieta\Lez03_08_Ereditarieta.csproj", "{6012D74F-95B0-47EC-A4AA-DF2E207997FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6012D74F-95B0-47EC-A4AA-DF2E207997FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6012D74F-95B0-47EC-A4AA-DF2E207997FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6012D74F-95B0-47EC-A4AA-DF2E207997FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6012D74F-95B0-47EC-A4AA-DF2E207997FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6042D63F-5F7C-41E6-B20A-7D88CEE35EF1}
+	EndGlobalSection
+EndGlobal

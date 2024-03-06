@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\bin\Debug\net6.0\Lez03_09_Astrazione.exe
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\bin\Debug\net6.0\Lez03_09_Astrazione.deps.json
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\bin\Debug\net6.0\Lez03_09_Astrazione.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\bin\Debug\net6.0\Lez03_09_Astrazione.dll
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\bin\Debug\net6.0\Lez03_09_Astrazione.pdb
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\Lez03_09_Astrazione.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\Lez03_09_Astrazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\Lez03_09_Astrazione.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\Lez03_09_Astrazione.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\Lez03_09_Astrazione.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\Lez03_09_Astrazione.dll
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\refint\Lez03_09_Astrazione.dll
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\Lez03_09_Astrazione.pdb
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\Lez03_09_Astrazione.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez03_09_Astrazione\Lez03_09_Astrazione\obj\Debug\net6.0\ref\Lez03_09_Astrazione.dll
