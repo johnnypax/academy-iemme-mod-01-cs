@@ -13,6 +13,36 @@
 
             string[][] store = { libro_1, libro_2, libro_3, libro_4, libro_5 };
 
-            //Contare tutti i libri di JRRT o di un autore inserito a mano.        }
+            //Contare tutti i libri di JRRT o di un autore inserito a mano.
+
+            //string autoreDaCercare = "JRRT";
+            //int contatore = 0;
+
+            //foreach(string[] libro in store)
+            //{
+            //    if (libro[1].Equals(autoreDaCercare))
+            //        contatore++;
+            //}
+
+            //Console.WriteLine($"Il numero di libri è: {contatore}");
+
+            //------------------------------------------------------------------
+
+            Console.WriteLine("Digita l'autore");
+            string? autoreDaCercare = Console.ReadLine();
+
+            int contatore;
+
+            foreach (string[] libro in store)
+            {
+                if (
+                    autoreDaCercare is not null && 
+                    libro[1].ToLower().Trim().Equals(autoreDaCercare.ToLower().Trim())
+                    )
+                    contatore++;
+            }
+
+            Console.WriteLine($"Il numero di libri è: {contatore}");
         }
     }
+}

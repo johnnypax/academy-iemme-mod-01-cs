@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\bin\Debug\net6.0\Lez03_05_MetodiInnestati.exe
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\bin\Debug\net6.0\Lez03_05_MetodiInnestati.deps.json
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\bin\Debug\net6.0\Lez03_05_MetodiInnestati.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\bin\Debug\net6.0\Lez03_05_MetodiInnestati.dll
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\bin\Debug\net6.0\Lez03_05_MetodiInnestati.pdb
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\Lez03_05_MetodiInnestati.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\Lez03_05_MetodiInnestati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\Lez03_05_MetodiInnestati.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\Lez03_05_MetodiInnestati.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\Lez03_05_MetodiInnestati.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\Lez03_05_MetodiInnestati.dll
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\refint\Lez03_05_MetodiInnestati.dll
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\Lez03_05_MetodiInnestati.pdb
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\Lez03_05_MetodiInnestati.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati\obj\Debug\net6.0\ref\Lez03_05_MetodiInnestati.dll

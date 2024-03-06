@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lez03_05_MetodiInnestati", "Lez03_05_MetodiInnestati\Lez03_05_MetodiInnestati.csproj", "{EC09E796-4B43-4D33-AA38-CCA74873F3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC09E796-4B43-4D33-AA38-CCA74873F3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC09E796-4B43-4D33-AA38-CCA74873F3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC09E796-4B43-4D33-AA38-CCA74873F3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC09E796-4B43-4D33-AA38-CCA74873F3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4DED53F-DA49-4B5C-8AC7-AA49719FD5DB}
+	EndGlobalSection
+EndGlobal
