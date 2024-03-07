@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lez04_03_TaskEredi.Classes
 {
-    internal abstract class Veicolo
+    internal class Aereo : Veicolo
     {
-        public int Telaio { get; set; }
-
-        public abstract void metodoLocomozione();
-
+        public override void metodoLocomozione()
+        {
+            Console.WriteLine("Vola");
+        }
     }
 }

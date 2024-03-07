@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\bin\Debug\net6.0\Lez04_04_Utilizzo.exe
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\bin\Debug\net6.0\Lez04_04_Utilizzo.deps.json
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\bin\Debug\net6.0\Lez04_04_Utilizzo.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\bin\Debug\net6.0\Lez04_04_Utilizzo.dll
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\bin\Debug\net6.0\Lez04_04_Utilizzo.pdb
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\Lez04_04_Utilizzo.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\Lez04_04_Utilizzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\Lez04_04_Utilizzo.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\Lez04_04_Utilizzo.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\Lez04_04_Utilizzo.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\Lez04_04_Utilizzo.dll
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\refint\Lez04_04_Utilizzo.dll
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\Lez04_04_Utilizzo.pdb
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\Lez04_04_Utilizzo.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez04_04_Utilizzo\Lez04_04_Utilizzo\obj\Debug\net6.0\ref\Lez04_04_Utilizzo.dll
