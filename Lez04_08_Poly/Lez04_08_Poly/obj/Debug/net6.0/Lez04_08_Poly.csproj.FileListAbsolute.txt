@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\bin\Debug\net6.0\Lez04_08_Poly.exe
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\bin\Debug\net6.0\Lez04_08_Poly.deps.json
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\bin\Debug\net6.0\Lez04_08_Poly.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\bin\Debug\net6.0\Lez04_08_Poly.dll
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\bin\Debug\net6.0\Lez04_08_Poly.pdb
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\Lez04_08_Poly.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\Lez04_08_Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\Lez04_08_Poly.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\Lez04_08_Poly.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\Lez04_08_Poly.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\Lez04_08_Poly.dll
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\refint\Lez04_08_Poly.dll
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\Lez04_08_Poly.pdb
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\Lez04_08_Poly.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez04_08_Poly\Lez04_08_Poly\obj\Debug\net6.0\ref\Lez04_08_Poly.dll

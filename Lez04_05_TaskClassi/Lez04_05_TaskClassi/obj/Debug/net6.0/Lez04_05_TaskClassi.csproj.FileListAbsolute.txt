@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\bin\Debug\net6.0\Lez04_05_TaskClassi.exe
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\bin\Debug\net6.0\Lez04_05_TaskClassi.deps.json
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\bin\Debug\net6.0\Lez04_05_TaskClassi.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\bin\Debug\net6.0\Lez04_05_TaskClassi.dll
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\bin\Debug\net6.0\Lez04_05_TaskClassi.pdb
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\Lez04_05_TaskClassi.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\Lez04_05_TaskClassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\Lez04_05_TaskClassi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\Lez04_05_TaskClassi.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\Lez04_05_TaskClassi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\Lez04_05_TaskClassi.dll
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\refint\Lez04_05_TaskClassi.dll
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\Lez04_05_TaskClassi.pdb
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\Lez04_05_TaskClassi.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez04_05_TaskClassi\Lez04_05_TaskClassi\obj\Debug\net6.0\ref\Lez04_05_TaskClassi.dll

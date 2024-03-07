@@ -41,20 +41,6 @@
 
             Console.WriteLine(gio);
 
-            /**
-			 * Creare un sistema in grado di immagazinare i dati relativi ad una persona.
-			 * Inoltre, sarà necessario immagazinare, all'interno di una persona, i dati 
-			 * relativi a:
-			 * - Codice Fiscale
-			 * |- CODICE
-			 * |_ Data di scadenza
-			 * 
-			 * - Carta di Identita: 
-			 * |- CODICE
-			 * |- Data di Emissione
-			 * |- Data di Scadenza
-			 * |_ Emissione (comune || zecca dello stato)
-			 */
 
         }
     }
