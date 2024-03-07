@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lez04_02_Recap", "Lez04_02_Recap\Lez04_02_Recap.csproj", "{93CD6EA3-764E-46B2-AACE-818D97EA158E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CD6EA3-764E-46B2-AACE-818D97EA158E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CD6EA3-764E-46B2-AACE-818D97EA158E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CD6EA3-764E-46B2-AACE-818D97EA158E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CD6EA3-764E-46B2-AACE-818D97EA158E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2FEAD81-2E18-4459-A3A6-40F59962AE18}
+	EndGlobalSection
+EndGlobal
