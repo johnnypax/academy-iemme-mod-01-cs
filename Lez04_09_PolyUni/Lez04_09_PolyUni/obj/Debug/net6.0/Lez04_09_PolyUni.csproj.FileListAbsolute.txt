@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\bin\Debug\net6.0\Lez04_09_PolyUni.exe
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\bin\Debug\net6.0\Lez04_09_PolyUni.deps.json
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\bin\Debug\net6.0\Lez04_09_PolyUni.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\bin\Debug\net6.0\Lez04_09_PolyUni.dll
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\bin\Debug\net6.0\Lez04_09_PolyUni.pdb
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\Lez04_09_PolyUni.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\Lez04_09_PolyUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\Lez04_09_PolyUni.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\Lez04_09_PolyUni.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\Lez04_09_PolyUni.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\Lez04_09_PolyUni.dll
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\refint\Lez04_09_PolyUni.dll
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\Lez04_09_PolyUni.pdb
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\Lez04_09_PolyUni.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez04_09_PolyUni\Lez04_09_PolyUni\obj\Debug\net6.0\ref\Lez04_09_PolyUni.dll
