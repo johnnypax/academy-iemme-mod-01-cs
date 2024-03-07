@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\bin\Debug\net6.0\Lez04_03_TaskEredi.exe
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\bin\Debug\net6.0\Lez04_03_TaskEredi.deps.json
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\bin\Debug\net6.0\Lez04_03_TaskEredi.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\bin\Debug\net6.0\Lez04_03_TaskEredi.dll
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\bin\Debug\net6.0\Lez04_03_TaskEredi.pdb
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\Lez04_03_TaskEredi.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\Lez04_03_TaskEredi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\Lez04_03_TaskEredi.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\Lez04_03_TaskEredi.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\Lez04_03_TaskEredi.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\Lez04_03_TaskEredi.dll
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\refint\Lez04_03_TaskEredi.dll
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\Lez04_03_TaskEredi.pdb
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\Lez04_03_TaskEredi.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez04_03_TaskEredi\Lez04_03_TaskEredi\obj\Debug\net6.0\ref\Lez04_03_TaskEredi.dll

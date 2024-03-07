@@ -23,18 +23,7 @@ namespace Lez04_02_Recap
 
             Studente[] elenco = { uno, due, tre, sei };
 
-            // ------------------------------------------------- TASK
-            /*
-             * Creare un sistema di gestione veicoli:
-             * 
-             * All'inserimento di un nuovo veicolo mi sia permessa la scelta tra:
-             * 1. Automobile
-             * 2. Moto
-             * 
-             * Alla fine dell'inserimento delle caratteristiche del veicolo, stampare i suoi dettagli.
-             * 
-             * Libera scelta degli attributi
-             */
+            
 
 
         }
