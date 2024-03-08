@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\bin\Debug\net6.0\Lez05_03_File.exe
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\bin\Debug\net6.0\Lez05_03_File.deps.json
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\bin\Debug\net6.0\Lez05_03_File.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\bin\Debug\net6.0\Lez05_03_File.dll
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\bin\Debug\net6.0\Lez05_03_File.pdb
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\Lez05_03_File.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\Lez05_03_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\Lez05_03_File.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\Lez05_03_File.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\Lez05_03_File.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\Lez05_03_File.dll
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\refint\Lez05_03_File.dll
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\Lez05_03_File.pdb
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\Lez05_03_File.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez05_03_File\Lez05_03_File\obj\Debug\net6.0\ref\Lez05_03_File.dll

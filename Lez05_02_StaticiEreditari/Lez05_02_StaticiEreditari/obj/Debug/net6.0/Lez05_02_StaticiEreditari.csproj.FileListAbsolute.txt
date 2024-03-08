@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\bin\Debug\net6.0\Lez05_02_StaticiEreditari.exe
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\Lez05_02_StaticiEreditari.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\Lez05_02_StaticiEreditari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\Lez05_02_StaticiEreditari.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\Lez05_02_StaticiEreditari.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\Lez05_02_StaticiEreditari.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\Lez05_02_StaticiEreditari.dll
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\refint\Lez05_02_StaticiEreditari.dll
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\Lez05_02_StaticiEreditari.pdb
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\bin\Debug\net6.0\Lez05_02_StaticiEreditari.deps.json
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\bin\Debug\net6.0\Lez05_02_StaticiEreditari.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\bin\Debug\net6.0\Lez05_02_StaticiEreditari.dll
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\bin\Debug\net6.0\Lez05_02_StaticiEreditari.pdb
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\Lez05_02_StaticiEreditari.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez05_02_StaticiEreditari\Lez05_02_StaticiEreditari\obj\Debug\net6.0\ref\Lez05_02_StaticiEreditari.dll

@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\bin\Debug\net6.0\Lez05_01_Statici.exe
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\bin\Debug\net6.0\Lez05_01_Statici.deps.json
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\bin\Debug\net6.0\Lez05_01_Statici.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\bin\Debug\net6.0\Lez05_01_Statici.dll
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\bin\Debug\net6.0\Lez05_01_Statici.pdb
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\Lez05_01_Statici.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\Lez05_01_Statici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\Lez05_01_Statici.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\Lez05_01_Statici.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\Lez05_01_Statici.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\Lez05_01_Statici.dll
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\refint\Lez05_01_Statici.dll
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\Lez05_01_Statici.pdb
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\Lez05_01_Statici.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez05_01_Statici\Lez05_01_Statici\obj\Debug\net6.0\ref\Lez05_01_Statici.dll
