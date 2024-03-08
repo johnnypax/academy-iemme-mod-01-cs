@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lez05_04_ProvaCSV", "Lez05_04_ProvaCSV\Lez05_04_ProvaCSV.csproj", "{6D5E7A47-F05F-418A-AF9D-35C7EA61989E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D5E7A47-F05F-418A-AF9D-35C7EA61989E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5E7A47-F05F-418A-AF9D-35C7EA61989E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5E7A47-F05F-418A-AF9D-35C7EA61989E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5E7A47-F05F-418A-AF9D-35C7EA61989E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AADB60D6-A626-4475-94B6-72CE33B441D1}
+	EndGlobalSection
+EndGlobal

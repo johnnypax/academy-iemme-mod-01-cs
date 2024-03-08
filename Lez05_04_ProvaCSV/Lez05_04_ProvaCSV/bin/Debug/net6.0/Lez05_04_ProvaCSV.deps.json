@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lez05_04_ProvaCSV/1.0.0": {
+        "runtime": {
+          "Lez05_04_ProvaCSV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lez05_04_ProvaCSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

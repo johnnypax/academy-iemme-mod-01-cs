@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\bin\Debug\net6.0\Lez05_04_ProvaCSV.exe
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\bin\Debug\net6.0\Lez05_04_ProvaCSV.deps.json
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\bin\Debug\net6.0\Lez05_04_ProvaCSV.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\bin\Debug\net6.0\Lez05_04_ProvaCSV.dll
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\bin\Debug\net6.0\Lez05_04_ProvaCSV.pdb
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\Lez05_04_ProvaCSV.csproj.AssemblyReference.cache
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\Lez05_04_ProvaCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\Lez05_04_ProvaCSV.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\Lez05_04_ProvaCSV.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\Lez05_04_ProvaCSV.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\Lez05_04_ProvaCSV.dll
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\refint\Lez05_04_ProvaCSV.dll
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\Lez05_04_ProvaCSV.pdb
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\Lez05_04_ProvaCSV.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez05_04_ProvaCSV\Lez05_04_ProvaCSV\obj\Debug\net6.0\ref\Lez05_04_ProvaCSV.dll
