@@ -41,7 +41,7 @@ INSERT INTO Iscrizione(studenteRIF, esameRIF) VALUES
 (2,	4),
 (2,	5);
 
-SELECT COUNT(*)
+SELECT *
 	FROM Studente
 	JOIN Iscrizione ON Studente.studenteID = Iscrizione.studenteRIF
 	JOIN Esame ON Iscrizione.esameRIF = Esame.esameID;
