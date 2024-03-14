@@ -139,6 +139,7 @@ BEGIN
 	(@firstNameValue, @lastNameValue, @emailValue, @jobTitleValue, @departmentValue, @startDateValue)
 END;
 
+-- InsertEmployeeFilteredRefactored('Giovanni', 'Pace', 'Engineer', 'gio@pace.com', null, null)
 EXEC InsertEmployeeFilteredRefactored 
 	@firstNameValue = 'Giovanni', 
 	@lastNameValue = 'Pace',
