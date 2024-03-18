@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\bin\Debug\net8.0\LINQ_Lez02_Oggetti.exe
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\bin\Debug\net8.0\LINQ_Lez02_Oggetti.deps.json
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\bin\Debug\net8.0\LINQ_Lez02_Oggetti.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\bin\Debug\net8.0\LINQ_Lez02_Oggetti.dll
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\bin\Debug\net8.0\LINQ_Lez02_Oggetti.pdb
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\LINQ_Lez02_Oggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\LINQ_Lez02_Oggetti.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\LINQ_Lez02_Oggetti.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\LINQ_Lez02_Oggetti.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\LINQ_Lez02_Oggetti.sourcelink.json
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\LINQ_Lez02_Oggetti.dll
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\refint\LINQ_Lez02_Oggetti.dll
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\LINQ_Lez02_Oggetti.pdb
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\LINQ_Lez02_Oggetti.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\LINQ_Lez02_Oggetti\LINQ_Lez02_Oggetti\obj\Debug\net8.0\ref\LINQ_Lez02_Oggetti.dll

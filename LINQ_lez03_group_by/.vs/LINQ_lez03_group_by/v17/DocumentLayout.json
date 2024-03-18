@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\LINQ_lez03_group_by\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C31A13-D2A1-4B1E-94E7-1F2E6982B03F}|LINQ_lez03_group_by\\LINQ_lez03_group_by.csproj|c:\\users\\academy\\source\\repos\\linq_lez03_group_by\\linq_lez03_group_by\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C31A13-D2A1-4B1E-94E7-1F2E6982B03F}|LINQ_lez03_group_by\\LINQ_lez03_group_by.csproj|solutionrelative:linq_lez03_group_by\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C31A13-D2A1-4B1E-94E7-1F2E6982B03F}|LINQ_lez03_group_by\\LINQ_lez03_group_by.csproj|c:\\users\\academy\\source\\repos\\linq_lez03_group_by\\linq_lez03_group_by\\classes\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C31A13-D2A1-4B1E-94E7-1F2E6982B03F}|LINQ_lez03_group_by\\LINQ_lez03_group_by.csproj|solutionrelative:linq_lez03_group_by\\classes\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\LINQ_lez03_group_by\\LINQ_lez03_group_by\\Classes\\Libro.cs",
+              "RelativeDocumentMoniker": "LINQ_lez03_group_by\\Classes\\Libro.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\LINQ_lez03_group_by\\LINQ_lez03_group_by\\Classes\\Libro.cs",
+              "RelativeToolTip": "LINQ_lez03_group_by\\Classes\\Libro.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:41:06.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\LINQ_lez03_group_by\\LINQ_lez03_group_by\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_lez03_group_by\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\LINQ_lez03_group_by\\LINQ_lez03_group_by\\Program.cs",
+              "RelativeToolTip": "LINQ_lez03_group_by\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvxwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:37:33.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\bin\Debug\net8.0\LINQ_lez03_group_by.exe
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\bin\Debug\net8.0\LINQ_lez03_group_by.deps.json
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\bin\Debug\net8.0\LINQ_lez03_group_by.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\bin\Debug\net8.0\LINQ_lez03_group_by.dll
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\bin\Debug\net8.0\LINQ_lez03_group_by.pdb
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\LINQ_lez03_group_by.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\LINQ_lez03_group_by.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\LINQ_lez03_group_by.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\LINQ_lez03_group_by.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\LINQ_lez03_group_by.sourcelink.json
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\LINQ_lez03_group_by.dll
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\refint\LINQ_lez03_group_by.dll
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\LINQ_lez03_group_by.pdb
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\LINQ_lez03_group_by.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\LINQ_lez03_group_by\LINQ_lez03_group_by\obj\Debug\net8.0\ref\LINQ_lez03_group_by.dll
