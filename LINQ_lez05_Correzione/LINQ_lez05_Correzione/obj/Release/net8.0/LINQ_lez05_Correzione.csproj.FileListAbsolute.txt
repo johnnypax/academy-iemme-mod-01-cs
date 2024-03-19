@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\bin\Release\net8.0\LINQ_lez05_Correzione.exe
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\bin\Release\net8.0\LINQ_lez05_Correzione.deps.json
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\bin\Release\net8.0\LINQ_lez05_Correzione.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\bin\Release\net8.0\LINQ_lez05_Correzione.dll
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\bin\Release\net8.0\LINQ_lez05_Correzione.pdb
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\LINQ_lez05_Correzione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\LINQ_lez05_Correzione.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\LINQ_lez05_Correzione.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\LINQ_lez05_Correzione.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\LINQ_lez05_Correzione.sourcelink.json
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\LINQ_lez05_Correzione.dll
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\refint\LINQ_lez05_Correzione.dll
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\LINQ_lez05_Correzione.pdb
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\LINQ_lez05_Correzione.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\LINQ_lez05_Correzione\LINQ_lez05_Correzione\obj\Release\net8.0\ref\LINQ_lez05_Correzione.dll
