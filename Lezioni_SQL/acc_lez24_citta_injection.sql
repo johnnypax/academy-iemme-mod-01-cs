@@ -1,3 +1,5 @@
+USE acc_lez24_citta;
+
 CREATE TABLE Citta(
 	cittaID INTEGER PRIMARY KEY IDENTITY(1,1),
 	nome VARCHAR(250) NOT NULL ,
