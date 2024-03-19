@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB_lez02_paninoteca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d429dea23d581565232a1e23a43057ceac2bfb7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12f5eff83423e7661c777454edb9a711294a59b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DB_lez02_paninoteca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB_lez02_paninoteca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

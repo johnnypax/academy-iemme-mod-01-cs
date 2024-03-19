@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\DB_lez02_dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\DB_lez02_dal.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\DB_lez02_dal.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\DB_lez02_dal.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\DB_lez02_dal.sourcelink.json
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\bin\Debug\net8.0\DB_lez02_dal.exe
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\bin\Debug\net8.0\DB_lez02_dal.deps.json
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\bin\Debug\net8.0\DB_lez02_dal.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\bin\Debug\net8.0\DB_lez02_dal.dll
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\bin\Debug\net8.0\DB_lez02_dal.pdb
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\DB_lez02_dal.dll
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\refint\DB_lez02_dal.dll
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\DB_lez02_dal.pdb
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\DB_lez02_dal.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\DB_lez02_dal\DB_lez02_dal\obj\Debug\net8.0\ref\DB_lez02_dal.dll

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{7D5B14B6-B3F1-4308-A24E-55D4D394C826}|DB_lez02_paninoteca\\DB_lez02_paninoteca.csproj|solutionrelative:db_lez02_paninoteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D5B14B6-B3F1-4308-A24E-55D4D394C826}|DB_lez02_paninoteca\\DB_lez02_paninoteca.csproj|c:\\users\\academy\\source\\repos\\db_lez02_paninoteca\\db_lez02_paninoteca\\models\\panino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D5B14B6-B3F1-4308-A24E-55D4D394C826}|DB_lez02_paninoteca\\DB_lez02_paninoteca.csproj|solutionrelative:db_lez02_paninoteca\\models\\panino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D5B14B6-B3F1-4308-A24E-55D4D394C826}|DB_lez02_paninoteca\\DB_lez02_paninoteca.csproj|c:\\users\\academy\\source\\repos\\db_lez02_paninoteca\\db_lez02_paninoteca\\models\\gestorepanino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D5B14B6-B3F1-4308-A24E-55D4D394C826}|DB_lez02_paninoteca\\DB_lez02_paninoteca.csproj|solutionrelative:db_lez02_paninoteca\\models\\gestorepanino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5B14B6-B3F1-4308-A24E-55D4D394C826}|DB_lez02_paninoteca\\DB_lez02_paninoteca.csproj|c:\\users\\academy\\source\\repos\\db_lez02_paninoteca\\db_lez02_paninoteca\\models\\panino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5B14B6-B3F1-4308-A24E-55D4D394C826}|DB_lez02_paninoteca\\DB_lez02_paninoteca.csproj|solutionrelative:db_lez02_paninoteca\\models\\panino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GestorePanino.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez02_paninoteca\\DB_lez02_paninoteca\\Models\\GestorePanino.cs",
               "RelativeDocumentMoniker": "DB_lez02_paninoteca\\Models\\GestorePanino.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez02_paninoteca\\DB_lez02_paninoteca\\Models\\GestorePanino.cs",
               "RelativeToolTip": "DB_lez02_paninoteca\\Models\\GestorePanino.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAwEgAAAAnAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwDEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T14:45:33.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Panino.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez02_paninoteca\\DB_lez02_paninoteca\\Models\\Panino.cs",
               "RelativeDocumentMoniker": "DB_lez02_paninoteca\\Models\\Panino.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez02_paninoteca\\DB_lez02_paninoteca\\Models\\Panino.cs",
               "RelativeToolTip": "DB_lez02_paninoteca\\Models\\Panino.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T14:44:06.253Z",
               "EditorCaption": ""
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "DB_lez02_paninoteca\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez02_paninoteca\\DB_lez02_paninoteca\\Program.cs",
               "RelativeToolTip": "DB_lez02_paninoteca\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwA4AAAAlAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T14:41:12.618Z",
               "EditorCaption": ""
