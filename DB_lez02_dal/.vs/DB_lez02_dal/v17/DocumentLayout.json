@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -54,12 +54,7 @@
               "RelativeToolTip": "DB_lez02_dal\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAADwvxgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T15:54:05.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-03-19T15:54:05.746Z"
             },
             {
               "$type": "Document",
@@ -71,8 +66,7 @@
               "RelativeToolTip": "DB_lez02_dal\\Models\\Esame.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:11:45.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T16:11:45.869Z"
             },
             {
               "$type": "Document",
@@ -84,8 +78,7 @@
               "RelativeToolTip": "DB_lez02_dal\\DAL\\IDal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:05:10.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T16:05:10.06Z"
             },
             {
               "$type": "Document",
@@ -97,8 +90,7 @@
               "RelativeToolTip": "DB_lez02_dal\\DAL\\StudenteDAL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:03:36.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T16:03:36.458Z"
             },
             {
               "$type": "Document",
@@ -108,7 +100,7 @@
               "RelativeDocumentMoniker": "DB_lez02_dal\\DAL\\DocenteDAL.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez02_dal\\DB_lez02_dal\\DAL\\DocenteDAL.cs",
               "RelativeToolTip": "DB_lez02_dal\\DAL\\DocenteDAL.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBQAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBcAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T16:03:27.077Z",
               "EditorCaption": ""
@@ -123,8 +115,7 @@
               "RelativeToolTip": "DB_lez02_dal\\DAL\\EsameDAL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:12:00.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T16:12:00.681Z"
             },
             {
               "$type": "Document",
@@ -136,8 +127,7 @@
               "RelativeToolTip": "DB_lez02_dal\\Models\\Docente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:01:28.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T16:01:28.172Z"
             },
             {
               "$type": "Document",
@@ -149,8 +139,11 @@
               "RelativeToolTip": "DB_lez02_dal\\Models\\Studente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:01:19.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T16:01:19.947Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -11,6 +11,8 @@ namespace DB_lez02_paninoteca.Models
     {
         private string connString = "Server=BOOK-N57JVKH6HJ\\SQLEXPRESS;Database=acc_lez25_paninoteca;User Id=academy;Password=academy!;MultipleActiveResultSets=true;Encrypt=false;TrustServerCertificate=false";
 
+        public List<Panino> Elenco { get; set; } = new List<Panino>();
+
         /// <summary>
         /// Inserimento del panino tramite oggetto
         /// </summary>
@@ -54,7 +56,6 @@ namespace DB_lez02_paninoteca.Models
             using (SqlConnection con = new SqlConnection(connString))
             {
                 SqlCommand cmd = con.CreateCommand();
-                cmd.Connection = con;
                 cmd.CommandText = "SELECT paninoID, nome, descrizione, prezzo, vegan FROM Panino";
 
                 try
