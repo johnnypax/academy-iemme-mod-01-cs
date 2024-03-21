@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB_lez05_libreria_task", "DB_lez05_libreria_task\DB_lez05_libreria_task.csproj", "{FC34C490-F084-4CCA-8979-23863DAC6786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC34C490-F084-4CCA-8979-23863DAC6786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC34C490-F084-4CCA-8979-23863DAC6786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC34C490-F084-4CCA-8979-23863DAC6786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC34C490-F084-4CCA-8979-23863DAC6786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B319DFCC-963A-4716-AE9D-A8BF1959DD57}
+	EndGlobalSection
+EndGlobal

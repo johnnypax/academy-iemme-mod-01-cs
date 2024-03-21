@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB_lez04_scuola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3de86eb17732af96ed2cac6e925e0e23fee0dca9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a70921d2dd00a79daf035b6d61ebf005c018292")]
 [assembly: System.Reflection.AssemblyProductAttribute("DB_lez04_scuola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB_lez04_scuola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\bin\Debug\net8.0\Lez06_01_HashTable_Disctionary.exe
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\bin\Debug\net8.0\Lez06_01_HashTable_Disctionary.deps.json
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\bin\Debug\net8.0\Lez06_01_HashTable_Disctionary.runtimeconfig.json
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\bin\Debug\net8.0\Lez06_01_HashTable_Disctionary.dll
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\bin\Debug\net8.0\Lez06_01_HashTable_Disctionary.pdb
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\Lez06_01_HashTable_Disctionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\Lez06_01_HashTable_Disctionary.AssemblyInfoInputs.cache
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\Lez06_01_HashTable_Disctionary.AssemblyInfo.cs
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\Lez06_01_HashTable_Disctionary.csproj.CoreCompileInputs.cache
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\Lez06_01_HashTable_Disctionary.sourcelink.json
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\Lez06_01_HashTable_Disctionary.dll
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\refint\Lez06_01_HashTable_Disctionary.dll
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\Lez06_01_HashTable_Disctionary.pdb
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\Lez06_01_HashTable_Disctionary.genruntimeconfig.cache
+C:\Users\ACADEMY\source\repos\Lez06_01_HashTable_Disctionary\Lez06_01_HashTable_Disctionary\obj\Debug\net8.0\ref\Lez06_01_HashTable_Disctionary.dll

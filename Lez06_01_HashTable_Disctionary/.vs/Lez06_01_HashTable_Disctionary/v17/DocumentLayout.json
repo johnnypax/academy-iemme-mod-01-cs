@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\Lez06_01_HashTable_Disctionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{321D4DCF-5527-42DE-A85D-EB82C07AEE46}|Lez06_01_HashTable_Disctionary\\Lez06_01_HashTable_Disctionary.csproj|c:\\users\\academy\\source\\repos\\lez06_01_hashtable_disctionary\\lez06_01_hashtable_disctionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321D4DCF-5527-42DE-A85D-EB82C07AEE46}|Lez06_01_HashTable_Disctionary\\Lez06_01_HashTable_Disctionary.csproj|solutionrelative:lez06_01_hashtable_disctionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\Lez06_01_HashTable_Disctionary\\Lez06_01_HashTable_Disctionary\\Program.cs",
+              "RelativeDocumentMoniker": "Lez06_01_HashTable_Disctionary\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\Lez06_01_HashTable_Disctionary\\Lez06_01_HashTable_Disctionary\\Program.cs",
+              "RelativeToolTip": "Lez06_01_HashTable_Disctionary\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:57:50.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\dal\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\dal\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\dal\\studentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\dal\\studentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\dal\\studentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\dal\\studentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\dal\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\dal\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|c:\\users\\academy\\source\\repos\\db_lez04_scuola\\db_lez04_scuola\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E2FD-9E69-4417-B138-A441D86F4048}|DB_lez04_scuola\\DB_lez04_scuola.csproj|solutionrelative:db_lez04_scuola\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,93 +46,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 174,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "IDal.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\IDal.cs",
               "RelativeDocumentMoniker": "DB_lez04_scuola\\DAL\\IDal.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\IDal.cs",
               "RelativeToolTip": "DB_lez04_scuola\\DAL\\IDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:51:25.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T08:51:25.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\Program.cs",
               "RelativeDocumentMoniker": "DB_lez04_scuola\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\Program.cs",
               "RelativeToolTip": "DB_lez04_scuola\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAqwA4AAAAkAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:40:00.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T08:40:00.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "appSettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\appSettings.json",
               "RelativeDocumentMoniker": "DB_lez04_scuola\\appSettings.json",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\appSettings.json",
               "RelativeToolTip": "DB_lez04_scuola\\appSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAC8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-20T09:13:36.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\Utilities\\Config.cs",
               "RelativeDocumentMoniker": "DB_lez04_scuola\\Utilities\\Config.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\Utilities\\Config.cs",
               "RelativeToolTip": "DB_lez04_scuola\\Utilities\\Config.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAqwCEAAAArAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T10:14:03.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T10:14:03.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StudenteDAL.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\StudenteDAL.cs",
               "RelativeDocumentMoniker": "DB_lez04_scuola\\DAL\\StudenteDAL.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\StudenteDAL.cs",
               "RelativeToolTip": "DB_lez04_scuola\\DAL\\StudenteDAL.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T09:01:11.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T09:01:11.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "DocenteDAL.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\DocenteDAL.cs",
               "RelativeDocumentMoniker": "DB_lez04_scuola\\DAL\\DocenteDAL.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\DAL\\DocenteDAL.cs",
               "RelativeToolTip": "DB_lez04_scuola\\DAL\\DocenteDAL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T09:01:17.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T09:01:17.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Docente.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\Models\\Docente.cs",
               "RelativeDocumentMoniker": "DB_lez04_scuola\\Models\\Docente.cs",
@@ -140,12 +131,11 @@
               "RelativeToolTip": "DB_lez04_scuola\\Models\\Docente.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:48:27.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T08:48:27.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Studente.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\Models\\Studente.cs",
               "RelativeDocumentMoniker": "DB_lez04_scuola\\Models\\Studente.cs",
@@ -153,12 +143,11 @@
               "RelativeToolTip": "DB_lez04_scuola\\Models\\Studente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:44:22.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T08:44:22.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\DB_lez04_scuola\\DB_lez04_scuola\\Models\\Persona.cs",
               "RelativeDocumentMoniker": "DB_lez04_scuola\\Models\\Persona.cs",
@@ -166,8 +155,11 @@
               "RelativeToolTip": "DB_lez04_scuola\\Models\\Persona.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T08:41:20.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T08:41:20.42Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
