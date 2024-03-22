@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez01_integrazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{742BB3AF-5076-4F04-9A89-2F0B89430C4E}|WPF_lez01_integrazione\\WPF_lez01_integrazione.csproj|c:\\users\\academy\\source\\repos\\wpf_lez01_integrazione\\wpf_lez01_integrazione\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{742BB3AF-5076-4F04-9A89-2F0B89430C4E}|WPF_lez01_integrazione\\WPF_lez01_integrazione.csproj|solutionrelative:wpf_lez01_integrazione\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742BB3AF-5076-4F04-9A89-2F0B89430C4E}|WPF_lez01_integrazione\\WPF_lez01_integrazione.csproj|c:\\users\\academy\\source\\repos\\wpf_lez01_integrazione\\wpf_lez01_integrazione\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742BB3AF-5076-4F04-9A89-2F0B89430C4E}|WPF_lez01_integrazione\\WPF_lez01_integrazione.csproj|solutionrelative:wpf_lez01_integrazione\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742BB3AF-5076-4F04-9A89-2F0B89430C4E}|WPF_lez01_integrazione\\WPF_lez01_integrazione.csproj|c:\\users\\academy\\source\\repos\\wpf_lez01_integrazione\\wpf_lez01_integrazione\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{742BB3AF-5076-4F04-9A89-2F0B89430C4E}|WPF_lez01_integrazione\\WPF_lez01_integrazione.csproj|solutionrelative:wpf_lez01_integrazione\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez01_integrazione\\WPF_lez01_integrazione\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_lez01_integrazione\\App.xaml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez01_integrazione\\WPF_lez01_integrazione\\App.xaml",
+              "RelativeToolTip": "WPF_lez01_integrazione\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T09:19:22.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez01_integrazione\\WPF_lez01_integrazione\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_lez01_integrazione\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez01_integrazione\\WPF_lez01_integrazione\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_lez01_integrazione\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T09:16:51.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez01_integrazione\\WPF_lez01_integrazione\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_lez01_integrazione\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez01_integrazione\\WPF_lez01_integrazione\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_lez01_integrazione\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:16:45.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿<Application x:Class="WPF_lez02_risorse.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_lez02_risorse" xmlns:sys="clr-namespace:System;assembly=System.Runtime"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <x:Array x:Key="arraySesso" Type="sys:String">
+            <sys:String>Altro</sys:String>
+            <sys:String>Femmina</sys:String>
+            <sys:String>Maschio</sys:String>
+        </x:Array>
+    </Application.Resources>
+</Application>

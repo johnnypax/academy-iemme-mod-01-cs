@@ -1,0 +1,20 @@
+﻿<Window x:Class="WPF_lez01_integrazione.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_lez01_integrazione"
+        mc:Ignorable="d"
+        Title="Hello World" Height="400" Width="400">
+    <Grid>
+        <!-- Ciao sono un commento -->
+        <StackPanel>
+            <Button Content="Ciao" Name="Saluta" Click="Saluta_Click"></Button>
+
+            <Button Content="GIovanni" Name="Giovanni" Click="Giovanni_Click"></Button>
+
+            <Button Content="Chiudimi" Click="Close_Click"></Button>
+        </StackPanel>
+        
+    </Grid>
+</Window>
