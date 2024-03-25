@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|c:\\users\\academy\\source\\repos\\wpf_lez00_intro_contatti\\wpf_lez00_intro_contatti\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|solutionrelative:wpf_lez00_intro_contatti\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|c:\\users\\academy\\source\\repos\\wpf_lez00_intro_contatti\\wpf_lez00_intro_contatti\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|solutionrelative:wpf_lez00_intro_contatti\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|c:\\users\\academy\\source\\repos\\wpf_lez00_intro_contatti\\wpf_lez00_intro_contatti\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|solutionrelative:wpf_lez00_intro_contatti\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|c:\\users\\academy\\source\\repos\\wpf_lez00_intro_contatti\\wpf_lez00_intro_contatti\\wpf_lez00_intro_contatti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|solutionrelative:wpf_lez00_intro_contatti\\wpf_lez00_intro_contatti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|c:\\users\\academy\\source\\repos\\wpf_lez00_intro_contatti\\wpf_lez00_intro_contatti\\models\\eflez02onetomanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C91318-24A6-4BA3-83FC-1B9E44917920}|WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj|solutionrelative:wpf_lez00_intro_contatti\\models\\eflez02onetomanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "WPF_lez00_intro_contatti\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\Models\\Persona.cs",
+              "RelativeToolTip": "WPF_lez00_intro_contatti\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:29:55.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfLez02OneToManyContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\Models\\EfLez02OneToManyContext.cs",
+              "RelativeDocumentMoniker": "WPF_lez00_intro_contatti\\Models\\EfLez02OneToManyContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\Models\\EfLez02OneToManyContext.cs",
+              "RelativeToolTip": "WPF_lez00_intro_contatti\\Models\\EfLez02OneToManyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:13:24.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WPF_lez00_intro_contatti.csproj",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj",
+              "RelativeDocumentMoniker": "WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj",
+              "RelativeToolTip": "WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T21:12:06.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_lez00_intro_contatti\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_lez00_intro_contatti\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T21:10:01.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_lez00_intro_contatti\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\WPF_lez00_intro_contatti\\WPF_lez00_intro_contatti\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_lez00_intro_contatti\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:09:58.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

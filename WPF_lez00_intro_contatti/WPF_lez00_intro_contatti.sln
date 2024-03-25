@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_lez00_intro_contatti", "WPF_lez00_intro_contatti\WPF_lez00_intro_contatti.csproj", "{00C91318-24A6-4BA3-83FC-1B9E44917920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C91318-24A6-4BA3-83FC-1B9E44917920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C91318-24A6-4BA3-83FC-1B9E44917920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C91318-24A6-4BA3-83FC-1B9E44917920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C91318-24A6-4BA3-83FC-1B9E44917920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50CBEAE3-01C5-46A0-BA88-C90566BBDAA8}
+	EndGlobalSection
+EndGlobal
