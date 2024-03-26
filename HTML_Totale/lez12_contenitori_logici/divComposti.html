@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="background-color: lightblue;">Questo è un div con posizionamento statico.</div>
+
+    <style>
+        .posizione-relativa{
+            position: relative; 
+            left: 120px; 
+            top: 30px; 
+            background-color: lightgreen;
+        }
+    </style>
+    <div class="posizione-relativa">
+        <p>Questo div è posizionato relativamente.</p>
+
+        <div class="posizione-relativa">
+            <p>Questo div è posizionato relativamente.</p>
+        </div>
+    </div>
+
+    <!-- <div style="background-color: lightblue;">Questo è un div con posizionamento statico.</div> -->
+
+
+    
+
+    <!-- <div style="position: relative; width: 200px; height: 200px; background-color: lightgrey;">
+        <div style="position: absolute; bottom: 0; right: 0; background-color: lightcoral;">
+            Questo div è assolutamente posizionato.
+        </div>
+    </div>
+
+    <div style="position: absolute; bottom: 0; left: 0; background-color: lightcoral;">
+        <div style="margin-left: 200px;">
+        CIAO</div>
+    </div> -->
+</body>
+</html>
