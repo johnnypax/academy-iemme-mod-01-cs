@@ -1,0 +1,28 @@
+td {
+    background-color: lime;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.logo {
+    width: 250px;
+    margin: 20px 0 20px 0;
+}
+
+.p-centrato {
+    padding: 10px;
+}
