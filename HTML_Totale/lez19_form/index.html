@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <title>Prova Form</title>
+</head>
+<body>
+    <div class="container mt-3">
+
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <h1>Titolo</h1>
+
+                <div class="form-group">
+                    <label for="input-nome">Nome</label>
+                    <input type="text" class="form-control" placeholder="Campo obbligatorio" id="input-nome" />
+                </div>
+                <div class="form-group">
+                    <label for="input-animali">Numero animali</label>
+                    <input type="number" min="0" max="999" class="form-control" placeholder="Campo obbligatorio" id="input-animali" />
+                </div>
+                <div class="form-group">
+                    <label for="input-nascita">Data Nascita</label>
+                    <input type="datetime-local" class="form-control" placeholder="Campo obbligatorio" id="input-nascita" />
+                </div>
+        
+                <button class="btn btn-outline-success btn-block" onclick="saluta()">Salva</button>
+
+            </div>
+        </div>
+
+        <script>
+            function saluta(){
+                let nome = document.getElementById("input-nome").value;
+                let animali = document.getElementById("input-animali").value;
+                let nascita = document.getElementById("input-nascita").value;
+
+                alert(nome);
+                console.log("CIAO");
+                alert(animali);
+                console.log("CIAO");
+                alert(nascita);
+                console.log("CIAO");
+
+                // console.log(nome, animali * 1, nascita);
+
+                // console.log(nome);
+                // console.log(animali * 1);
+                // console.log(nascita * 1);
+                
+                // console.table(nome, animali, nascita);
+            }
+        </script>
+
+        
+    </div>
+</body>
+</html>
