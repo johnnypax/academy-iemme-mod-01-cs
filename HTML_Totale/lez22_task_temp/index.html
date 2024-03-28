@@ -36,33 +36,27 @@
         function verifica(){
             let temp = document.getElementById("input-temp").value;
 
+            let errore;
+            let messaggio;
+
             if(temp < 30){
-                document.getElementById("risultato").innerHTML = `
-                <div class="alert alert-danger" role="alert">
-                    Errore, temperatura troppo bassa
-                </div>`;
-                return;
+                errore = true;
+                messaggio = "Errore, temperatura troppo bassa";
             }
 
             if(temp > 46){
-                document.getElementById("risultato").innerHTML = `
-                <div class="alert alert-danger" role="alert">
-                    Errore, temperatura troppo alta
-                </div>`;
-                return;
+                errore = true;
+                messaggio = "Errore, temperatura troppo alta";
             }
                 
-            if(temp > 37){
-                document.getElementById("risultato").innerHTML = `
-                <div class="alert alert-danger" role="alert">
-                    Errore, hai la febbre!
-                </div>`;
-                return;
+            if(temp > 37 && !errore){
+                errore = true;
+                messaggio = "Errore, hai la febbre!";
             }
 
             document.getElementById("risultato").innerHTML = `
-                <div class="alert alert-success" role="alert">
-                    Puoi entrare :)
+                <div class="alert alert-${errore ? "danger" : "primary"}" role="alert">
+                    ${errore ? messaggio : "Puoi entrare ;)"}
                 </div>`;
         }
     </script>
