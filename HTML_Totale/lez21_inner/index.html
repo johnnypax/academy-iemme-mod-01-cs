@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div class="container">
+
+        <button class="btn btn-primary" onclick="inserisciTesto()">Inserisci testo</button>
+
+        <div id="corpo-personalizzato">
+
+        </div>
+
+    </div>
+
+    <script>
+        //BACK TICK Alt + 9 + 6
+
+        function inserisciTesto(){
+            // document.getElementById("corpo-personalizzato").innerText = "<p>Ciao Giovanni</p>";
+            // document.getElementById("corpo-personalizzato").innerHTML = "<h1>Ciao a te</h1><p>Giovanni</p>";
+
+            let nome = 0;
+
+            // if(nome)
+            //     console.log(nome)
+            // else
+            //     console.log("Non selezionato")
+
+            console.log(nome ? nome : "Non selezionato")
+
+            document.getElementById("corpo-personalizzato").innerHTML = `
+                <h1>Ciao a te</h1>
+                <p>${nome ? nome : "Non selezionato"}</p>
+            `;
+        }
+    </script>
+
+</body>
+</html>
