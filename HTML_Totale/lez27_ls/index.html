@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // localStorage.setItem("nominativo", "Giovanni Pace");
+        // localStorage.setItem("matricola", "AB12345");
+
+        // localStorage.setItem("nominativo", "Mario Rossi");
+
+        // let nom = localStorage.getItem("nominativo");
+        // console.log(nom);
+
+        // localStorage.clear();
+
+        // localStorage.removeItem("matricola");
+
+//---------------------------------------------------
+
+        // let per = {
+        //     nome: "Giovanni",
+        //     cognome: "Pace",
+        // };
+
+        // let perJson = JSON.stringify(per);
+
+        // localStorage.setItem("persona", perJson);
+
+        let elemento = localStorage.getItem("persona");
+        let elementoObj = JSON.parse(elemento);
+
+        console.log(  elementoObj )
+
+    </script>
+</body>
+</html>
