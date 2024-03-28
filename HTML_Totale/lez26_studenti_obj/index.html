@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div class="container">
+
+        <div class="row">
+            <div class="col">
+
+                <h1>Inserimento utente</h1>
+                
+                <div class="form-group">
+                    <label for="input-nome">Nome</label>
+                    <input type="text" class="form-control" id="input-nome" placeholder="Inserisci i valori"/>
+                </div>
+                <div class="form-group">
+                    <label for="input-cognome">Cognome</label>
+                    <input type="text" class="form-control" id="input-cognome" placeholder="Inserisci i valori"/>
+                </div>
+                <div class="form-group">
+                    <label for="input-matricola">Matricola</label>
+                    <input type="text" class="form-control" id="input-matricola" placeholder="Inserisci i valori"/>
+                </div>
+
+                <button type="button" onclick="aggiungi()" class="btn btn-outline-primary btn-block">Salva</button>
+
+            </div>
+        </div>
+
+        <hr /> 
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Nome</th>
+                    <th>Cognome</th>
+                    <th>Matricola</th>
+                </tr>
+            </thead>
+            <tbody id="corpo-tabella">
+
+            </tbody>
+        </table>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

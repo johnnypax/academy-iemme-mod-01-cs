@@ -37,17 +37,41 @@
 
         // let persona = ["Giovanni", "Pace", 37];
 
-        let persona = {
-            nome: "Giovanni",
-            cognome: "Pace",
-            eta: 37
-        };
+        // let persona = {
+        //     nome: "Giovanni",
+        //     cognome: "Pace",
+        //     eta: 37
+        // };
 
-        persona.cognome = "Pacetto"
+        // persona.cognome = "Pacetto"
 
-        persona.animali = ["Bu", "Gattila"]
+        // persona.animali = ["Bu", "Gattila"]
         
-        console.log(persona)
+        // console.log(persona)
+
+        //------------------------------------------------------------
+
+        let elenco = [
+            {
+                nome: "Giovanni",
+                cognome: "Pace",
+                eta: 37
+            },
+            {
+                nome: "Valeria",
+                cognome: "Verdi",
+                eta: 35
+            },
+            {
+                nome: "Mario",
+                cognome: "Rossi",
+                eta: 31
+            },
+        ];
+
+        for(let [idx, item] of elenco.entries()){
+            console.log(item)
+        }
         
     </script>
 </body>
