@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Apri la console</h1>
+    <script>
+        //-------------------------------- RECAP FUNZIONI
+        // function saluta(){
+        //     console.log("Ciao Giovanni")
+        // }
+
+        // let saluta = () => {
+        //     console.log("Ciao Giovanni")
+        // }
+
+        // saluta();
+        // saluta();
+        // saluta();
+
+        // function somma(varUno, varDue){
+        //     return varUno + varDue
+        // }
+
+        // const somma = (varUno, varDue) => {
+        //     return varUno + varDue
+        // }
+
+        // let risultato = somma(25, 65);
+        // console.log( risultato )
+
+        //--------------------------------
+
+        // function(){
+        //     console.log("Ciao Giovanni")
+        // }
+
+        // () => {
+        //     console.log("Ciao Giovanni")
+        // }
+        
+        //--------------------------------
+
+        // setTimeout(() => {
+        //     console.log("Ciao Giovanni")
+        //     console.log("Ciao Mario")
+        //     console.log("Ciao Valeria")
+        // }, 2000);
+
+        let contatore = 0;
+
+        let intUno = setInterval(() => {
+            console.log("CIAO " + contatore)
+            contatore++;
+        }, 500);
+
+        const stoppa = () => {
+            clearInterval(intUno)
+        }
+
+    </script>
+
+    <button type="button" onClick="stoppa()">Stop</button>
+</body>
+</html>
