@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Document</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="index.html">GestiAMZ</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="inserisci.html">Inserisci</a>
+            </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container-fluid p-2">
+
+        
+    <!-- Button trigger modal -->
+    
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Nome</th>
+                    <th>Descrizione</th>
+                    <th>Prezzo</th>
+                    <th>Categoria</th>
+                    <th class="text-right">
+                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modaleInserimento">
+                            <i class="fa-solid fa-plus"></i>
+                        </button>
+                    </th>
+                </tr>
+            </thead>
+            <tbody id="corpo-tabella"></tbody>
+        </table>
+
+    </div>
+
+    
+    <!-- Modal -->
+    <div class="modal fade" id="modaleInserimento" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Inseirmento prodotto</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            </div>
+            <div class="modal-body">
+            
+                <div class="row">
+                    <div class="col">
+        
+                        <div class="form-group">
+                            <label for="input-nome">Nome</label>
+                            <input type="text" class="form-control" id="input-nome" placeholder="Inserire valore" />
+                        </div>
+                        <div class="form-group">
+                            <label for="input-descrizione">Descrizione</label>
+                            <textarea class="form-control" id="input-descrizione"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="input-prezzo">Prezzo</label>
+                            <input type="number" min="0" class="form-control" id="input-prezzo" placeholder="Inserire valore" />
+                        </div>
+                        <div class="form-group">
+                            <label for="select-categoria">Categoria</label>
+                            <select class="form-control" id="select-categoria">
+                                <option value="N" selected="selected">Nessuno</option>
+                                <option value="B">Bricolage</option>
+                                <option value="I">Illuminazione</option>
+                                <option value="L">Libri</option>
+                                <option value="C">Cibo</option>
+                            </select>
+                        </div>
+        
+                    </div>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary" onclick="salva()">Salva</button>
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="modaleModifica" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true"  data-identificativo="">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Modifica prodotto</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            </div>
+            <div class="modal-body">
+            
+                <div class="row">
+                    <div class="col">
+        
+                        <div class="form-group">
+                            <label for="update-nome">Nome</label>
+                            <input type="text" class="form-control" id="update-nome" placeholder="Inserire valore" />
+                        </div>
+                        <div class="form-group">
+                            <label for="update-descrizione">Descrizione</label>
+                            <textarea class="form-control" id="update-descrizione"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="update-prezzo">Prezzo</label>
+                            <input type="number" min="0" class="form-control" id="update-prezzo" placeholder="Inserire valore" />
+                        </div>
+                        <div class="form-group">
+                            <label for="update-categoria">Categoria</label>
+                            <select class="form-control" id="update-categoria">
+                                <option value="N" selected="selected">Nessuno</option>
+                                <option value="B">Bricolage</option>
+                                <option value="I">Illuminazione</option>
+                                <option value="L">Libri</option>
+                                <option value="C">Cibo</option>
+                            </select>
+                        </div>
+        
+                    </div>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary" onclick="update()">Modifica</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
