@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP_lez01_introduzione.props" />
+</Project>

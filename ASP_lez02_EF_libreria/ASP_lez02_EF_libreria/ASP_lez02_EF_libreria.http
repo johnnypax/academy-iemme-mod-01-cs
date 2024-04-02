@@ -1,0 +1,6 @@
+@ASP_lez02_EF_libreria_HostAddress = http://localhost:5063
+
+GET {{ASP_lez02_EF_libreria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

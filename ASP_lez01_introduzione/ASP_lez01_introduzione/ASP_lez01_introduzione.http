@@ -1,0 +1,6 @@
+@ASP_lez01_introduzione_HostAddress = http://localhost:5224
+
+GET {{ASP_lez01_introduzione_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
