@@ -44,7 +44,7 @@ namespace ASP_lez02_EF_libreria.Controllers
 
         //TODO: Elimina per codice
 
-        [HttpDelete("codice/{varCodice}")]
+        [HttpDelete("codice/{varCodice}"), HttpPost("codice/{varCodice}")]
         public IActionResult EliminaPerCodiceLibro(string varCodice)
         {
             Libro? lib = LibroRepo.getInstance().GetByCodice(varCodice);

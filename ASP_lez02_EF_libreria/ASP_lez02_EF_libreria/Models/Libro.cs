@@ -9,7 +9,7 @@ public partial class Libro
 
     public string Codice { get; set; } = Guid.NewGuid().ToString();
 
-    public string Titolo { get; set; } = null!;
+    public string? Titolo { get; set; } = null!;
 
     public string? Descrizione { get; set; }
 

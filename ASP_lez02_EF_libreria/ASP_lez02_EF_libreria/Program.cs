@@ -2,6 +2,8 @@ namespace ASP_lez02_EF_libreria
 {
     public class Program
     {
+
+
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +13,12 @@ namespace ASP_lez02_EF_libreria
             builder.Services.AddControllers();
 
             var app = builder.Build();
+
+            app.UseCors(builder =>
+                    builder
+                    .WithOrigins("*")
+                    .AllowAnyMethod()
+                    .AllowAnyHeader());
 
             // Configure the HTTP request pipeline.
 

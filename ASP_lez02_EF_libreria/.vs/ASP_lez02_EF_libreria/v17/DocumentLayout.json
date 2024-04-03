@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|solutionrelative:asp_lez02_ef_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\repositories\\librorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|solutionrelative:asp_lez02_ef_libreria\\repositories\\librorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|solutionrelative:asp_lez02_ef_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|solutionrelative:asp_lez02_ef_libreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|solutionrelative:asp_lez02_ef_libreria\\asp_lez02_ef_libreria.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|solutionrelative:asp_lez02_ef_libreria\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|solutionrelative:asp_lez02_ef_libreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\models\\acclez29libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|solutionrelative:asp_lez02_ef_libreria\\models\\acclez29libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|solutionrelative:asp_lez02_ef_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95149FD3-D689-4F86-8649-154C0BBACD86}|ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj|c:\\users\\academy\\source\\repos\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria\\asp_lez02_ef_libreria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -30,72 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "ASP_lez02_EF_libreria.http",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.http",
+              "RelativeDocumentMoniker": "ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.http",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.http",
+              "RelativeToolTip": "ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-03T10:38:25.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_lez02_EF_libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Program.cs",
+              "RelativeToolTip": "ASP_lez02_EF_libreria\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:15:08.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccLez29LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Models\\AccLez29LibreriaContext.cs",
+              "RelativeDocumentMoniker": "ASP_lez02_EF_libreria\\Models\\AccLez29LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Models\\AccLez29LibreriaContext.cs",
+              "RelativeToolTip": "ASP_lez02_EF_libreria\\Models\\AccLez29LibreriaContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:58:01.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "ASP_lez02_EF_libreria\\Models\\Libro.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Models\\Libro.cs",
               "RelativeToolTip": "ASP_lez02_EF_libreria\\Models\\Libro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAARAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T15:12:45.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ASP_lez02_EF_libreria\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Properties\\launchSettings.json",
               "RelativeToolTip": "ASP_lez02_EF_libreria\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAlAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-02T14:44:42.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "LibroController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Controllers\\LibroController.cs",
               "RelativeDocumentMoniker": "ASP_lez02_EF_libreria\\Controllers\\LibroController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Controllers\\LibroController.cs",
               "RelativeToolTip": "ASP_lez02_EF_libreria\\Controllers\\LibroController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAADgAAAARAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T14:40:20.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LibroRepo.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Repositories\\LibroRepo.cs",
               "RelativeDocumentMoniker": "ASP_lez02_EF_libreria\\Repositories\\LibroRepo.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\Repositories\\LibroRepo.cs",
               "RelativeToolTip": "ASP_lez02_EF_libreria\\Repositories\\LibroRepo.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAuwFcAAAANAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T14:36:53.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ASP_lez02_EF_libreria",
+              "DocumentIndex": 7,
+              "Title": "ASP_lez02_EF_libreria.csproj",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj",
               "RelativeDocumentMoniker": "ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj",
               "RelativeToolTip": "ASP_lez02_EF_libreria\\ASP_lez02_EF_libreria.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T14:36:53.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T14:36:53.129Z"
             }
           ]
         }

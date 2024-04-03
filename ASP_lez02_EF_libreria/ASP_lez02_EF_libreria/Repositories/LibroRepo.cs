@@ -1,5 +1,6 @@
 ﻿using ASP_lez02_EF_libreria.Models;
 using System.Linq;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace ASP_lez02_EF_libreria.Repositories
 {
@@ -89,7 +90,16 @@ namespace ASP_lez02_EF_libreria.Repositories
                 try
                 {
                     Libro temp = ctx.Libros.Single(l => l.Codice == t.Codice);
+
+                    t.LibroId =     temp.LibroId;
+                    t.Titolo =      t.Titolo is not null        ? t.Titolo          : temp.Titolo;
+                    t.Autore =      t.Autore is not null        ? t.Autore          : temp.Autore;
+                    t.Descrizione = t.Descrizione is not null   ? t.Descrizione     : temp.Descrizione;
+                    t.Prezzo =      t.Prezzo == 0               ? temp.Prezzo          : t.Prezzo;
+                    t.Quantita =    t.Quantita is null          ? temp.Quantita        : t.Quantita;
+
                     ctx.Entry(temp).CurrentValues.SetValues(t);
+
                     ctx.SaveChanges();
 
                     risultato = true;
