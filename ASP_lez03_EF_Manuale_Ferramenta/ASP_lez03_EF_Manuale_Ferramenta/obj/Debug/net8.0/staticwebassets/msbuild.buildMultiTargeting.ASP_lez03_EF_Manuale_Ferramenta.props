@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP_lez03_EF_Manuale_Ferramenta.props" />
+</Project>
