@@ -6,9 +6,9 @@ namespace ASP_lez03_EF_Manuale_Ferramenta.Services
 {
     public class ProdottoService : IService<Prodotto>
     {
-        private readonly IRepo<Prodotto> _repository;
+        private readonly ProdottoRepo _repository;
 
-        public ProdottoService(IRepo<Prodotto> repository)
+        public ProdottoService(ProdottoRepo repository)
         {
             _repository = repository;
         }
@@ -66,6 +66,18 @@ namespace ASP_lez03_EF_Manuale_Ferramenta.Services
             };
 
             return _repository.Create(pro);
+        }
+
+        public bool EliminaProdotto(ProdottoDto oPro)
+        {
+            if(oPro.Cod is not null)
+            {
+                Prodotto? temp = _repository.GetByCodice(oPro.Cod);
+
+                if(temp is not null)
+                    return _repository.Delete(temp.ProdottoId);
+            }
+            return false;
         }
     }
 }

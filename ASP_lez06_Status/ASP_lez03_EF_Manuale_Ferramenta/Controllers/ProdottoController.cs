@@ -69,5 +69,22 @@ namespace ASP_lez03_EF_Manuale_Ferramenta.Controllers
                 Data = listaErrori
             });
         }
+
+        [HttpDelete("elimina/{varCod}")]
+        public ActionResult Delete(string varCod)
+        {
+            if (_service.EliminaProdotto(new ProdottoDto() { Cod = varCod }))
+                return Ok(new Risposta()
+                {
+                    Status = "SUCCESS"
+                });
+
+            return Ok(new Risposta()
+            {
+                Status = "ERROR",
+                Data = "Eliminazione non effettuata"
+            });
+
+        }
     }
 }

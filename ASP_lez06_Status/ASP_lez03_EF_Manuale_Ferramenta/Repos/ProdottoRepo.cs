@@ -75,5 +75,19 @@ namespace ASP_lez03_EF_Manuale_Ferramenta.Repos
                 return false;
             }
         }
+
+        public Prodotto? GetByCodice(string codice)
+        {
+            try
+            {
+                return _context.Prodotti.FirstOrDefault(p => p.Codice == codice);
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                return null;
+            }
+        }
     }
 }

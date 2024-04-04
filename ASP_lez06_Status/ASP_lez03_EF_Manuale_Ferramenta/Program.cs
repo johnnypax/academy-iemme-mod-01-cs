@@ -23,12 +23,18 @@ namespace ASP_lez03_EF_Manuale_Ferramenta
             builder.Services.AddDbContext<FerramentaContext>(options => options.UseSqlServer(
                 builder.Configuration.GetConnectionString("DefaultConnection")
                 ));
-            builder.Services.AddScoped<IRepo<Prodotto>, ProdottoRepo>();
+            builder.Services.AddScoped<ProdottoRepo>();
             builder.Services.AddScoped<ProdottoService>();
 
             #endregion
 
             var app = builder.Build();
+
+            app.UseCors(builder =>
+                 builder
+                 .WithOrigins("*")
+                 .AllowAnyMethod()
+                 .AllowAnyHeader());
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
