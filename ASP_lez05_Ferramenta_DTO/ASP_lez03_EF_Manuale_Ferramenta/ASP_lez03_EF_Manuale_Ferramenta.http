@@ -1,0 +1,6 @@
+@ASP_lez03_EF_Manuale_Ferramenta_HostAddress = http://localhost:5239
+
+GET {{ASP_lez03_EF_Manuale_Ferramenta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
