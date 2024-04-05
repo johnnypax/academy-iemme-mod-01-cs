@@ -1,16 +1,23 @@
-COTZA			+2
-DE COLA			+2
+COTZA			+6
+DE COLA			+3
 MORONI			+2
-TITONE			+2
-DEZZI			+1
-DONADDIO		+1
-CANULLI			+1
-FRISI			+1
-ANSELMI			+1
+TITONE			+7
+FRISI			+2
+DONADDIO		+4
+DEZZI			+2
+CANULLI			+2
+ANSELMI			+2
 PACE			+1
 CUOMO			+1
 TERENZI			+1
-GIUNGATO		+1
+GIUNGATO		+4
+LUCACI			+2
+DI CATERINO		+1
+PARISI			+2
+
+
+   /  /
+   \  \
 -----------
 \         /
  \       / 
