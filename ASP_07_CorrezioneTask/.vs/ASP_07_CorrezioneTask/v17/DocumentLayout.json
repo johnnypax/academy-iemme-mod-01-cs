@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|c:\\users\\academy\\source\\repos\\asp_07_correzionetask\\asp_07_correzionetask\\models\\oggettosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|solutionrelative:asp_07_correzionetask\\models\\oggettosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|c:\\users\\academy\\source\\repos\\asp_07_correzionetask\\asp_07_correzionetask\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|solutionrelative:asp_07_correzionetask\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|c:\\users\\academy\\source\\repos\\asp_07_correzionetask\\asp_07_correzionetask\\models\\oggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|solutionrelative:asp_07_correzionetask\\models\\oggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|c:\\users\\academy\\source\\repos\\asp_07_correzionetask\\asp_07_correzionetask\\models\\nasacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|solutionrelative:asp_07_correzionetask\\models\\nasacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|c:\\users\\academy\\source\\repos\\asp_07_correzionetask\\asp_07_correzionetask\\asp_07_correzionetask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C5FE799-C13B-49B4-862A-1C81EDCFFFC0}|ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj|solutionrelative:asp_07_correzionetask\\asp_07_correzionetask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NasaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\Models\\NasaContext.cs",
+              "RelativeDocumentMoniker": "ASP_07_CorrezioneTask\\Models\\NasaContext.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\Models\\NasaContext.cs",
+              "RelativeToolTip": "ASP_07_CorrezioneTask\\Models\\NasaContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA3wBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:28:50.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ASP_07_CorrezioneTask",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj",
+              "RelativeDocumentMoniker": "ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj",
+              "RelativeToolTip": "ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T15:28:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OggettoSistema.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\Models\\OggettoSistema.cs",
+              "RelativeDocumentMoniker": "ASP_07_CorrezioneTask\\Models\\OggettoSistema.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\Models\\OggettoSistema.cs",
+              "RelativeToolTip": "ASP_07_CorrezioneTask\\Models\\OggettoSistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:23:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\Models\\Sistema.cs",
+              "RelativeDocumentMoniker": "ASP_07_CorrezioneTask\\Models\\Sistema.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\Models\\Sistema.cs",
+              "RelativeToolTip": "ASP_07_CorrezioneTask\\Models\\Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:22:00.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oggetto.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\Models\\Oggetto.cs",
+              "RelativeDocumentMoniker": "ASP_07_CorrezioneTask\\Models\\Oggetto.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_07_CorrezioneTask\\ASP_07_CorrezioneTask\\Models\\Oggetto.cs",
+              "RelativeToolTip": "ASP_07_CorrezioneTask\\Models\\Oggetto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:21:24.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
