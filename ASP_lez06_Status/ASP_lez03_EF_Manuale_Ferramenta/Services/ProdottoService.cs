@@ -79,5 +79,55 @@ namespace ASP_lez03_EF_Manuale_Ferramenta.Services
             }
             return false;
         }
+
+        /// <summary>
+        /// Funzione di incremento o decremento sul contesto
+        /// </summary>
+        /// <param name="varMod"></param>
+        /// <returns></returns>
+        private bool IncrDecr(ProdottoDto oPro, bool varMod)
+        {
+            if(oPro.Cod is not null)
+            {
+                Prodotto? temp = _repository.GetByCodice(oPro.Cod);
+                if (temp is not null)
+                {
+                    temp.Quantita = varMod ? temp.Quantita + 1 : temp.Quantita - 1;
+
+                    if (temp.Quantita < 0)
+                        return false;
+
+                    return _repository.Update(temp);
+                }
+            }
+
+            return false;
+        }
+
+        public bool Incrementa(ProdottoDto oPro)
+        {
+            return this.IncrDecr(oPro, true);
+        }
+        public bool Decrementa(ProdottoDto oPro)
+        {
+            return this.IncrDecr(oPro, false);
+        }
+
+        public List<ProdottoDto> Ricerca(QueryDto oQue)
+        {
+            List<ProdottoDto> elenco = _repository.GetByAllFields(oQue.Contenuto)
+                .Select(p => new ProdottoDto()
+                {
+                    Nom = p.Nome,
+                    Cat = p.Categoria,
+                    Cod = p.Codice,
+                    Des = p.Descrizione,
+                    Pre = p.Prezzo,
+                    Qua = p.Quantita
+                })
+                .ToList();
+
+            return elenco;
+        }
     }
 }

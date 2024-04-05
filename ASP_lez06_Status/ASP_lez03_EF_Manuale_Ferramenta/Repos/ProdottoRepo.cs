@@ -89,5 +89,13 @@ namespace ASP_lez03_EF_Manuale_Ferramenta.Repos
                 return null;
             }
         }
+
+        public List<Prodotto> GetByAllFields(string query)
+        {
+            return _context.Prodotti.Where(p => 
+                (p.Nome != null && p.Nome.Contains($"{query}")) ||
+                (p.Descrizione != null && p.Descrizione.Contains($"{query}"))
+                ).ToList();
+        }
     }
 }

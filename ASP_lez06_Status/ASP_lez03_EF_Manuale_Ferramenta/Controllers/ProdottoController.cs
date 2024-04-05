@@ -84,7 +84,43 @@ namespace ASP_lez03_EF_Manuale_Ferramenta.Controllers
                 Status = "ERROR",
                 Data = "Eliminazione non effettuata"
             });
+        }
 
+        [HttpGet("quantita/{varCod}/{varTipo}")]
+        public ActionResult ModificaQuantita(string varCod, string varTipo)
+        {
+            bool risultato = false;
+
+            switch (varTipo)
+            {
+                case "incremento":
+                    risultato = _service.Incrementa(new ProdottoDto() { Cod = varCod });
+                    break;
+                case "decremento":
+                    risultato = _service.Decrementa(new ProdottoDto() { Cod = varCod });
+                    break;
+                default:
+                    return BadRequest();
+                    break;
+            }
+
+            if (risultato)
+                return Ok(new Risposta()
+                {
+                    Status = "SUCCESS"
+                });
+
+            return Ok(new Risposta()
+            {
+                Status = "ERROR",
+                Data = "Modifica non effettuata"
+            });
+        }
+
+        [HttpPost("ricerca")]
+        public ActionResult EffetuaRicerca(QueryDto oQue)
+        {
+            return Ok(new Risposta() { Status = "SUCCESS", Data = _service.Ricerca(oQue) });
         }
     }
 }
