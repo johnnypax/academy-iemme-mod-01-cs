@@ -1,0 +1,6 @@
+@ASP_lerz09_contatti_CF_HostAddress = http://localhost:5008
+
+GET {{ASP_lerz09_contatti_CF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

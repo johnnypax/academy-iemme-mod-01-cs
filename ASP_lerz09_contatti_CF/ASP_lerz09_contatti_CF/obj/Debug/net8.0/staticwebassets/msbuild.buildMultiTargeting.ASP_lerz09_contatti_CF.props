@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP_lerz09_contatti_CF.props" />
+</Project>
