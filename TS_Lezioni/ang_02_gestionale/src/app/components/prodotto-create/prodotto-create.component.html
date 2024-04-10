@@ -1,0 +1,27 @@
+<div class="row">
+    <div class="col">
+
+        <div class="form-group">
+            <label for="input-codice">Codice</label>
+            <input [(ngModel)]="codice" type="text" class="form-control" id="input-codice" >
+        </div>
+
+        <div class="form-group">
+            <label for="input-nome">Nome</label>
+            <input [(ngModel)]="nome" type="text" class="form-control" id="input-nome" >
+        </div>
+
+        <div class="form-group">
+            <label for="input-descrizione">Descrizione</label>
+            <input [(ngModel)]="descrizione" type="text" class="form-control" id="input-descrizione" >
+        </div>
+
+        <div class="form-group">
+            <label for="input-prezzo">Prezzo</label>
+            <input [(ngModel)]="prezzo" type="number" class="form-control" id="input-prezzo" >
+        </div>
+
+        <button type="button" class="btn btn-primary" (click)="salvaProdotto()">Cliccami</button>
+
+    </div>
+</div>

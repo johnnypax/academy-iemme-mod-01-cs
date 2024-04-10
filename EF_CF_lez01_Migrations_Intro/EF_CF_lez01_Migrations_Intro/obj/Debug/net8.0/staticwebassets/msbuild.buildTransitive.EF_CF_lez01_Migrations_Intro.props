@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EF_CF_lez01_Migrations_Intro.props" />
+</Project>

@@ -1,0 +1,6 @@
+@EF_CF_lez01_Migrations_Intro_HostAddress = http://localhost:5196
+
+GET {{EF_CF_lez01_Migrations_Intro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
