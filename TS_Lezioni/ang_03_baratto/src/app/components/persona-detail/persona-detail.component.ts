@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { PersonaService } from '../../services/persona.service';
 import { Persona } from '../../models/persona';
 import { Oggetto } from '../../models/oggetto';
@@ -17,7 +17,9 @@ export class PersonaDetailComponent {
 
   constructor(
     private rottaAttiva: ActivatedRoute, 
-    private service: PersonaService){
+    private service: PersonaService,
+    private router: Router
+  ){
 
   }
 
@@ -32,7 +34,21 @@ export class PersonaDetailComponent {
       this.listaOggetti = per?.listaOgg;
 
     })
+  }
 
+  modifica() {
+    let per = new Persona();
+    per.nominativo = this.nominativo;
+    per.codice = this.codice;
+
+    if(this.service.Update(per)){
+      console.log("STAPPOOOOO")
+      this.router.navigateByUrl("persona/list");
+    }
+    else{
+      console.log("ERRORE");
+      
+    }
   }
 
 }

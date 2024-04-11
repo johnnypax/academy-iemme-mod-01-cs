@@ -1,0 +1,19 @@
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Codice</th>
+            <th>Nome</th>
+            <th>Azioni</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let per of lista">
+            <td>
+                <a href="/persona/detail/{{ per.codice }}">
+                    {{ per.codice }}
+                </a>
+            </td>
+            <td>{{ per.nominativo }}</td>
+        </tr>
+    </tbody>
+</table>

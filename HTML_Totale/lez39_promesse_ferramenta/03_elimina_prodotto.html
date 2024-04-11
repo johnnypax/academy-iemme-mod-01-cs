@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let endpoint = "https://localhost:7108/Prodotto/elimina/496D838F-378F-4533-8FA4-55CE9308C7AE";
+
+        fetch(endpoint, {
+            method: "DELETE"
+        })
+        .then(risResponse => risResponse.json())
+        .then(dati => {
+            console.log(dati)
+        })
+        .catch(error => {
+            console.log(error)
+        })
+    </script>
+</body>
+</html>

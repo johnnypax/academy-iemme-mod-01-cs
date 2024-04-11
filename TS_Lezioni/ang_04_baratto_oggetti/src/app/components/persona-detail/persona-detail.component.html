@@ -1,0 +1,57 @@
+<div class="row">
+    <div class="col">
+        <h1>Dettaglio persona</h1>
+        <h4>Codice: {{codice}}</h4>
+        
+        <div class="form-group">
+            <label for="input-nominativo">Nominativo</label>
+            <input [(ngModel)]="nominativo" type="text" class="form-control" id="input-nominativo" >
+        </div>
+
+        <button type="button" class="btn btn-primary btn-block" (click)="modifica()">Modifica</button>
+    </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="form-group">
+            <label for="input-oggetto-nome">Nome</label>
+            <input [(ngModel)]="oggetto_nome" type="text" class="form-control" id="input-oggetto-nome" >
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-group">
+            <label for="input-oggetto-descrizione">Descrizione</label>
+            <input [(ngModel)]="oggetto_descrizione" type="text" class="form-control" id="input-oggetto-descrizione" >
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <button class="btn btn-primary btn-block" (click)="salvaOggetto()">Aggiungi oggetto</button>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Codice</th>
+            <th>Nome</th>
+            <th>Descrizione</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let ogg of listaOggetti">
+            <td>
+                <a href="/oggetto/detail/{{ ogg.codice }}">
+                    {{ ogg.codice }}
+                </a>
+            </td>
+            <td>{{ ogg.nome }}</td>
+            <td>{{ ogg.descrizione }}</td>
+        </tr>
+    </tbody>
+</table>

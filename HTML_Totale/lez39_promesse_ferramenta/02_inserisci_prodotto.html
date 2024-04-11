@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let endpoint = "https://localhost:7108/Prodotto/inserisci";
+
+        let oggetto = {
+            nom: "Brugola",
+            cat: "Tre uomini e una gamba",
+            des: "Forse un Garpez",
+            pre: 20000,
+            qua: 1
+        }
+
+        fetch(endpoint, {
+            method: "POST",
+            body: JSON.stringify(oggetto),
+            headers: {
+                "Content-Type": "application/json"
+            }
+        })
+        .then(risResponse => risResponse.json())
+        .then(dati => {
+            console.log(dati)
+        })
+        .catch(error => {
+            console.log(error)
+        })
+    </script>
+</body>
+</html>
