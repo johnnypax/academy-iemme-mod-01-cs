@@ -129,5 +129,27 @@ namespace ASP_lez03_EF_Manuale_Ferramenta.Services
 
             return elenco;
         }
+
+        public ProdottoDto? RicercaPerCodice(ProdottoDto objProd)
+        {
+            if (objProd.Cod != null)
+            {
+                Prodotto? pro = _repository.GetByCodice(objProd.Cod);
+
+                if (pro != null)
+                    return new ProdottoDto()
+                    {
+                        Cod = pro.Codice,
+                        Cat = pro.Categoria,
+                        Des = pro.Descrizione,
+                        Pre = pro.Prezzo,
+                        Qua = pro.Quantita,
+                        Nom = pro.Nome
+                    };
+            }
+
+            return null;
+            
+        }
     }
 }

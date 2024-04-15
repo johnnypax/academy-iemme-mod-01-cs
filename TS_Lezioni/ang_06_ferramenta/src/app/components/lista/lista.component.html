@@ -1,3 +1,43 @@
+<div class="row" *ngIf="visualizzaModifica">
+    <div class="col">
+        <div class="form-group">
+            <label for="input-nom">Nome</label>
+            <input type="text" class="form-control" id="input-nom" [(ngModel)]="nom">
+        </div>
+        
+        <div class="form-group">
+            <label for="input-cat">Categoria</label>
+            <input type="text" class="form-control" id="input-cat" [(ngModel)]="cat">
+        </div>
+        
+        <div class="form-group">
+            <label for="input-des">Descrizione</label>
+            <textarea type="text" class="form-control" id="input-des" [(ngModel)]="des"></textarea>
+        </div>
+        
+        <div class="form-group">
+            <label for="input-pre">Prezzo</label>
+            <input type="number" min="0" class="form-control" id="input-pre" [(ngModel)]="pre">
+        </div>
+
+        <div class="form-group">
+            <label for="input-qua">Quantità</label>
+            <input type="number" min="0" class="form-control" id="input-qua" [(ngModel)]="qua">
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <button type="button" class="btn btn-info btn-block" (click)="annullaMod()">Annulla</button>
+            </div>
+            <div class="col">
+                <button type="button" class="btn btn-primary btn-block" (click)="salvaModifica()">Modifica</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr />
+
 <table class="table table-striped">
     <thead>
         <tr>
@@ -20,7 +60,9 @@
             <td>{{item.qua}}</td>
             <td>
                 <button type="button" class="btn btn-outline-danger" (click)="elimina(item.cod)">X</button>
+                <button type="button" class="btn btn-outline-warning" (click)="apriModifica(item.cod)">M</button>
             </td>
         </tr>
     </tbody>
 </table>
+

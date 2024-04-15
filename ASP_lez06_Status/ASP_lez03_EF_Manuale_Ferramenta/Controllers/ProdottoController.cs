@@ -37,6 +37,25 @@ namespace ASP_lez03_EF_Manuale_Ferramenta.Controllers
             });
         }
 
+        [HttpGet("{codice}")]
+        public ActionResult<Risposta> RestituisciProdotto(string codice)
+        {
+            ProdottoDto? pro = _service.RicercaPerCodice(new ProdottoDto() { Cod = codice.Trim() });
+
+            if(pro != null)
+                return Ok(new Risposta()
+                {
+                    Status = "SUCCESS",
+                    Data = pro
+                });
+
+            return Ok(new Risposta()
+            {
+                Status = "ERROR",
+                Data = "prodotto non trovato"
+            });
+        }
+
         [HttpPost("inserisci")]
         public ActionResult<Risposta> InserisciProdotto(ProdottoDto objProd)
         {

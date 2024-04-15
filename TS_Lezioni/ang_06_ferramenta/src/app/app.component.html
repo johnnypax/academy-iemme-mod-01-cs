@@ -1,1 +1,15 @@
-<app-lista></app-lista>
+<div class="container">
+    <h1>Gestione Ferramenta</h1>
+
+    <div class="row">
+        <div class="col-md-6">
+            <button class="btn btn-outline-primary btn-block" type="button" (click)="visInserimento()">Inserimento</button>
+        </div>
+        <div class="col-md-6">
+            <button class="btn btn-outline-primary btn-block" type="button" (click)="visLista()">Lista</button>
+        </div>
+    </div>
+
+    <app-lista *ngIf="visualizzaLista"></app-lista>
+    <app-inserimento *ngIf="!visualizzaLista"></app-inserimento>
+</div>
