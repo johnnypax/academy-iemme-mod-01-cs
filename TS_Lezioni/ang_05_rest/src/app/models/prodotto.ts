@@ -1,8 +1,8 @@
 export class Prodotto {
-    Cod: string | undefined;
-    Nom: string | undefined;
-    Cat: string | undefined;
-    Des: string | undefined;
-    Pre: number | undefined;
-    Qua: number | undefined;
+    cod: string | undefined;
+    nom: string | undefined;
+    cat: string | undefined;
+    des: string | undefined;
+    pre: number | undefined;
+    qua: number | undefined;
 }

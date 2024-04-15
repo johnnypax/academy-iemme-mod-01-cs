@@ -1,0 +1,26 @@
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>codice</th>
+            <th>nome</th>
+            <th>categoria</th>
+            <th>descrizione</th>
+            <th>prezzo</th>
+            <th>quantità</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of elenco">
+            <td>{{item.cod}}</td>
+            <td>{{item.nom}}</td>
+            <td>{{item.cat}}</td>
+            <td>{{item.des}}</td>
+            <td>{{item.pre}}</td>
+            <td>{{item.qua}}</td>
+            <td>
+                <button type="button" class="btn btn-outline-danger" (click)="elimina(item.cod)">X</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
