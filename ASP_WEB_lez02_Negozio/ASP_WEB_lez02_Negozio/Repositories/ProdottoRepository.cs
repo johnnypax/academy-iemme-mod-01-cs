@@ -13,7 +13,19 @@ namespace ASP_WEB_lez02_Negozio.Repositories
 
         public bool Delete(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Prodotto temp = _context.Prodottos.Single(p => p.ProdottoId == id);
+                _context.Prodottos.Remove(temp);
+                _context.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            return false;
         }
 
         public List<Prodotto> GetAll()
@@ -59,7 +71,18 @@ namespace ASP_WEB_lez02_Negozio.Repositories
 
         public bool Update(Prodotto t)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _context.Update(t);
+                _context.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            return false;
         }
     }
 }

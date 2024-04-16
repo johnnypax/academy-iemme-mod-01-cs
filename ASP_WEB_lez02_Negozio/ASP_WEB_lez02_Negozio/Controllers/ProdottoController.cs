@@ -45,5 +45,35 @@ namespace ASP_WEB_lez02_Negozio.Controllers
 
             return View(prodotto);
         }
+
+        [HttpDelete]
+        public IActionResult Elimina(string varCodice)
+        {
+            if (_service.EliminaProdottPerCodice(varCodice))
+                return Ok();
+
+            return BadRequest();
+        }
+
+        public IActionResult Modifica(string varCodice)
+        {
+            Prodotto? temp = _service.RicercaProdottoPerCodice(varCodice);
+            if (temp is null)
+                return Redirect("/Prodotto/Errore");
+
+            return View(temp);
+        }
+
+        public IActionResult EffettuaModifica(Prodotto nuovo)
+        {
+            Prodotto? vecchio = _service.RicercaProdottoPerCodice(nuovo.Codice);
+            if (vecchio is null)
+                return Redirect("/Prodotto/Errore");
+
+            if(!_service.ModificaProdotto(vecchio, nuovo))
+                return Redirect("/Prodotto/Errore");
+
+            return Redirect("/Prodotto/Lista");
+        }
     }
 }

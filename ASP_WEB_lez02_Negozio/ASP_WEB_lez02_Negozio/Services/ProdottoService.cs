@@ -1,5 +1,6 @@
 ﻿using ASP_WEB_lez02_Negozio.Models;
 using ASP_WEB_lez02_Negozio.Repositories;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ASP_WEB_lez02_Negozio.Services
 {
@@ -26,5 +27,25 @@ namespace ASP_WEB_lez02_Negozio.Services
         {
             return _repository.GetByCodice(varCodice);
         }
+
+        public bool EliminaProdottPerCodice(string varCodice)
+        {
+            Prodotto? temp = _repository.GetByCodice(varCodice);
+            if (temp == null)
+                return false;
+
+            return _repository.Delete(temp.ProdottoId);
+        }
+
+        public bool ModificaProdotto(Prodotto vecchio, Prodotto nuovo)
+        {
+            vecchio.Nome = nuovo.Nome;
+            vecchio.Descrizione = nuovo.Descrizione;
+            //...
+
+            return _repository.Update(vecchio);
+        }
+
+
     }
 }

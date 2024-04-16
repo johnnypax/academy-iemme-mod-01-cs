@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\views\\prodotto\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\views\\prodotto\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\views\\prodotto\\modifica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\views\\prodotto\\modifica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\views\\prodotto\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\views\\prodotto\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +19,32 @@
       "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\repositories\\prodottorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\views\\prodotto\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\views\\prodotto\\dettaglio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\wwwroot\\js\\script_personalizzato.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\wwwroot\\js\\script_personalizzato.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\views\\prodotto\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\views\\prodotto\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\views\\prodotto\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\views\\prodotto\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|solutionrelative:asp_web_lez02_negozio\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF3C8D7-F87D-4B1F-B7EC-68E1B13CEC5D}|ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez02_negozio\\asp_web_lez02_negozio\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,17 +70,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Modifica.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Modifica.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Modifica.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Modifica.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Modifica.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T14:49:13.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "script_personalizzato.js",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\wwwroot\\js\\script_personalizzato.js",
+              "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\wwwroot\\js\\script_personalizzato.js",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\wwwroot\\js\\script_personalizzato.js",
+              "RelativeToolTip": "ASP_WEB_lez02_Negozio\\wwwroot\\js\\script_personalizzato.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-16T14:29:30.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "ASP_WEB_lez02_Negozio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-16T14:28:25.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dettaglio.cshtml",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Dettaglio.cshtml",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Dettaglio.cshtml",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Dettaglio.cshtml",
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Dettaglio.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-16T13:41:42.606Z",
               "EditorCaption": ""
@@ -81,33 +132,33 @@
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Inserimento.cshtml",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Inserimento.cshtml",
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Inserimento.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAQAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-16T13:02:15.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Lista.cshtml",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Lista.cshtml",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Lista.cshtml",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Lista.cshtml",
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Views\\Prodotto\\Lista.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABsAAAAUAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-16T12:51:27.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAABaAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-16T12:48:25.158Z",
               "EditorCaption": ""
@@ -120,27 +171,27 @@
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Controllers\\ProdottoController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Controllers\\ProdottoController.cs",
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Controllers\\ProdottoController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAwCYAAAA1AAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T12:45:30.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProdottoService.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Services\\ProdottoService.cs",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Services\\ProdottoService.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Services\\ProdottoService.cs",
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Services\\ProdottoService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAqwBoAAAA2AAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAewCsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T12:40:42.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\appsettings.json",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\appsettings.json",
@@ -148,38 +199,37 @@
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAC4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-16T12:31:32.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T12:31:32.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Program.cs",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Program.cs",
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAACsAAABLAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACsAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T12:31:23.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProdottoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Repositories\\ProdottoRepository.cs",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Repositories\\ProdottoRepository.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Repositories\\ProdottoRepository.cs",
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Repositories\\ProdottoRepository.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAwwBwAAAAkAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T12:29:24.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Repositories\\IRepository.cs",
@@ -187,12 +237,11 @@
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Repositories\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T12:27:09.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T12:27:09.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Prodotto.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Models\\Prodotto.cs",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Models\\Prodotto.cs",
@@ -200,12 +249,11 @@
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Models\\Prodotto.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T12:26:17.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T12:26:17.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "AccLez06NegozioContext.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\Models\\AccLez06NegozioContext.cs",
               "RelativeDocumentMoniker": "ASP_WEB_lez02_Negozio\\Models\\AccLez06NegozioContext.cs",
@@ -213,8 +261,7 @@
               "RelativeToolTip": "ASP_WEB_lez02_Negozio\\Models\\AccLez06NegozioContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAmwAwAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T12:26:07.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T12:26:07.268Z"
             }
           ]
         }

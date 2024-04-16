@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fz8j1rSETRYTqnY0an1XgPnKzxpqarcBCn5gYC41jEI=",
+  "Hash": "J2waO6JaK4jY81fU6YE1dMwdLV+3zTi9ubFxw7185oA=",
   "Source": "ASP_WEB_lez02_Negozio",
   "BasePath": "_content/ASP_WEB_lez02_Negozio",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\wwwroot\\js\\script_personalizzato.js",
       "SourceId": "ASP_WEB_lez02_Negozio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\wwwroot\\",
       "BasePath": "_content/ASP_WEB_lez02_Negozio",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/script_personalizzato.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\js\\script_personalizzato.js"
     },
     {
       "Identity": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez02_Negozio\\ASP_WEB_lez02_Negozio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

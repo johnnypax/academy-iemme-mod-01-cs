@@ -26,6 +26,8 @@
                 <td>@pro.Prezzo</td>
                 <td>@pro.DataScadenza</td>
                 <td>
+                    <button class="btn btn-danger" type="button" onclick="elimina('@pro.Codice')">Elimina</button>
+                    <a class="btn btn-warning" href="/Prodotto/Modifica/@pro.Codice">Modifica</a>
                 </td>
             </tr>
         }

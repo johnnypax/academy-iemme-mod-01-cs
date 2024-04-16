@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_WEB_lez02_Negozio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+006cbdf1781b990764f1da88dfb0027ad06996c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13db5b0714ec85f70e2a60b2bd5787ce09627fae")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_WEB_lez02_Negozio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_WEB_lez02_Negozio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
