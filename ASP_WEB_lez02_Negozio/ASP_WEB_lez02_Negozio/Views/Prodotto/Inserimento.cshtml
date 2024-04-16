@@ -1,0 +1,32 @@
+﻿@model ASP_WEB_lez02_Negozio.Models.Prodotto
+
+<h1>Inserisci Prodotto</h1>
+
+<form method="post" asp-controller="Prodotto" asp-action="Salvataggio">
+    <div class="form-group">
+        <label for="Codice">Codice</label>
+        <input type="text" class="form-control" asp-for=Codice />
+    </div>
+    <div class="form-group">
+        <label for="Nome">Nome</label>
+        <input type="text" class="form-control" asp-for=Nome/>
+    </div>
+    <div class="form-group">
+        <label for="Descrizione">Descrizione</label>
+        <textarea type="text" class="form-control" asp-for=Descrizione ></textarea>
+    </div>
+    <div class="form-group">
+        <label for="Categoria">Categoria</label>
+        <input type="text" class="form-control" asp-for=Categoria />
+    </div>
+    <div class="form-group">
+        <label for="Prezzo">Prezzo</label>
+        <input type="number" min="0" class="form-control" asp-for=Prezzo />
+    </div>
+    <div class="form-group">
+        <label for="DataScadenza">Prezzo</label>
+        <input type="date" min="0" class="form-control" asp-for=DataScadenza />
+    </div>
+
+    <button class="btn btn-primary btn-block" type="submit">Salva</button>
+</form>

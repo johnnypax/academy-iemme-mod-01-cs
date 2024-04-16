@@ -1,0 +1,33 @@
+﻿@model List<ASP_WEB_lez02_Negozio.Models.Prodotto>
+
+<h1>Lista di prodotti</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Descrizione</th>
+            <th>Categoria</th>
+            <th>Codice</th>
+            <th>Prezzo</th>
+            <th>Data Scad</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Prodotto pro in Model)
+        {
+            <tr>
+                <td>@pro.Nome</td>
+                <td>@pro.Descrizione</td>
+                <td>@pro.Categoria</td>
+                <td>
+                    <a href="/Prodotto/Dettaglio/@pro.Codice">@pro.Codice</a>
+                </td>
+                <td>@pro.Prezzo</td>
+                <td>@pro.DataScadenza</td>
+                <td>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

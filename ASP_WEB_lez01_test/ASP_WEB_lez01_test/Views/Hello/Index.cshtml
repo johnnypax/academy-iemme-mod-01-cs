@@ -1,0 +1,23 @@
+﻿@model ASP_WEB_lez01_test.Models.Persona;
+@{
+    int anni = 37;
+    String prova = $"CIao, Giovanni scommetto che hai {anni} anni";
+    String frase = ViewBag.SalutaEnrico;
+}
+<h1>@ViewBag.Titolo</h1>
+<h3>@ViewBag.Sottotitolo</h3>
+
+<h1>Dettaglio persona</h1>
+<ul>
+    <li><strong>Nome</strong>: @Model.Nominativo</li>
+    <li><strong>Cod Fis</strong>: @Model.CodFis</li>
+    <li>@prova <br /> @anni </li>
+</ul>
+
+<script>
+    function saluta(){
+        alert("CIAO")
+    }
+</script>
+
+<button type="button" onclick="saluta()">Cliccami</button>
