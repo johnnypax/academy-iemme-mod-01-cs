@@ -1,0 +1,58 @@
+﻿@model List<ASP_WEB_lez05_Preferiti.Models.Film>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<ul class="list-group">
+    @foreach (string pre in ViewBag.ListaPreferiti)
+    {
+        <li class="list-group-item">@pre</li>
+    }
+    
+</ul>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Codice</th>
+            <th>Titolo</th>
+            <th>Regista</th>
+            <th>Categoria</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Film film in Model)
+        {
+            <tr>
+                <td>@film.Codice</td>
+                <td>@film.Titolo</td>
+                <td>@film.Regista</td>
+                <td>@film.Categoria</td>
+                <td>
+                    <button type="button" class="btn btn-outline-success" onclick="preferiti('@film.Codice')">Star</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function preferiti(varCodice){
+        $.ajax(
+            {
+                url: "/Film/Aggiungi/" + varCodice,
+                type: "GET",
+                success: function () {
+                    alert("STAPPO")
+                    window.location.reload();
+                },
+                error: function(errore){
+                    alert(errore)
+                }
+            }
+        )
+    }
+</script>

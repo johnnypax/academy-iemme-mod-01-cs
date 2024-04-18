@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\repositories\\filmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\repositories\\filmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\asp_web_lez05_preferiti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez05_preferiti\\asp_web_lez05_preferiti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEA7BE9A-BE7C-459B-ADB0-F81CF8F0917C}|ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj|solutionrelative:asp_web_lez05_preferiti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\Views\\Film\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T14:32:19.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilmService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Services\\FilmService.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\Services\\FilmService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Services\\FilmService.cs",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\Services\\FilmService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:27:00.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Repositories\\FilmRepository.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\Repositories\\FilmRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Repositories\\FilmRepository.cs",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\Repositories\\FilmRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:22:21.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:19:06.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ASP_WEB_lez05_Preferiti",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T14:18:37.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\Models\\Film.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Models\\Film.cs",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\Models\\Film.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:17:10.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\Controllers\\FilmController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:16:49.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T14:15:01.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\appsettings.json",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T14:14:56.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez05_Preferiti\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\Program.cs",
+              "RelativeToolTip": "ASP_WEB_lez05_Preferiti\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBEAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:14:49.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

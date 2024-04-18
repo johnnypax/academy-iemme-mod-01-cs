@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\controllers\\authsesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\controllers\\authsesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\controllers\\autenticazionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\controllers\\autenticazionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\views\\authsess\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\views\\authsess\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\views\\autenticazione\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\views\\autenticazione\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\views\\autenticazione\\profiloamministratore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\views\\autenticazione\\profiloamministratore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\views\\autenticazione\\profiloutente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\views\\autenticazione\\profiloutente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\views\\home\\verifica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\views\\home\\verifica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|c:\\users\\academy\\source\\repos\\asp_web_lez03_cookiessesioni\\asp_web_lez03_cookiessesioni\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5824F476-8A12-42C8-838D-F45E7C1A3A07}|ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj|solutionrelative:asp_web_lez03_cookiessesioni\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Authsess\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Views\\Authsess\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Authsess\\Login.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Views\\Authsess\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T13:12:43.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutenticazioneController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Controllers\\AutenticazioneController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Controllers\\AutenticazioneController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Controllers\\AutenticazioneController.cs",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Controllers\\AutenticazioneController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:11:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthsessController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Controllers\\AuthsessController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Controllers\\AuthsessController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Controllers\\AuthsessController.cs",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Controllers\\AuthsessController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:11:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Models\\Utente.cs",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Models\\Utente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:32:28.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profiloutente.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Profiloutente.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Profiloutente.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Profiloutente.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Profiloutente.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:23:10.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profiloamministratore.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Profiloamministratore.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Profiloamministratore.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Profiloamministratore.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Profiloamministratore.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:23:01.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Login.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Views\\Autenticazione\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:22:50.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:20:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Models\\Persona.cs",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:28:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Verifica.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Home\\Verifica.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Views\\Home\\Verifica.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Home\\Verifica.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Views\\Home\\Verifica.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:15:02.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:01:19.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:00:59.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_WEB_lez03_CookiesSesioni\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\Program.cs",
+              "RelativeToolTip": "ASP_WEB_lez03_CookiesSesioni\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:18:01.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

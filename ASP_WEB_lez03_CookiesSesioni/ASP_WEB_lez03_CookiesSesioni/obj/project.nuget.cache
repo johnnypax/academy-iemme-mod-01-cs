@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JLtN83aFpXVbVo4YS/cxJbw3rDVsOwWXPrD5Z9LmokXFlyKMP8s7CSfTQKQBrPzRFk97H3DxbLSv7Pa+YjBpIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni\\ASP_WEB_lez03_CookiesSesioni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

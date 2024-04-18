@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Buy+UXFG5QxEbnALxP65Fh2zIi6vYdyLjccIRoXUWPsX6xzNPm0iaQ7tABJnfMFW8XG2gpR9zZr1KCpcY6f1fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti\\ASP_WEB_lez05_Preferiti.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACADEMY\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
