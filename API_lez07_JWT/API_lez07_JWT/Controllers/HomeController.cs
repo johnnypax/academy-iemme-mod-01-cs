@@ -1,4 +1,5 @@
-﻿using API_lez07_JWT.Models;
+﻿using API_lez07_JWT.Filters;
+using API_lez07_JWT.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -15,12 +16,21 @@ namespace API_lez07_JWT.Controllers
         public IActionResult Loggati(UserLogin objLogin)
         {
             //TODO: Verifica accesso, emissione JWT
-            if(objLogin.Username == "giovanni" && objLogin.Password == "1234")
+            string tipoUtente = "";
+            if (objLogin.Username == "giovanni" && objLogin.Password == "1234")
             {
+                tipoUtente = "ADMIN";
+            }
+            if (objLogin.Username == "mario" && objLogin.Password == "1234")
+            {
+                tipoUtente = "USER";
+            }
+
+            if (tipoUtente != "" && objLogin.Username is not null) {
                 List<Claim> claims = new List<Claim>()
                 {
                     new Claim(JwtRegisteredClaimNames.Sub, objLogin.Username),
-                    new Claim("UserType", "USER"),
+                    new Claim("UserType", tipoUtente),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),      //Evito che due dispositivi abbiano lo stesso JWT TOken (rubato)
                 };
 
@@ -39,6 +49,28 @@ namespace API_lez07_JWT.Controllers
             }
 
             return Unauthorized();
+        }
+
+        [HttpGet("utenteprofilo")]
+        [AutorizzaUtentePerTipo("USER")]
+        public IActionResult DammiInformazioniUtente()
+        {
+            return Ok(new Risposta()
+            {
+                Status = "SUCCESS",
+                Data = "Dati sensibili USER"
+            });
+        }
+
+        [HttpGet("adminprofilo")]
+        [AutorizzaUtentePerTipo("ADMIN")]
+        public IActionResult DammiInformazioniAmministratore()
+        {
+            return Ok(new Risposta()
+            {
+                Status = "SUCCESS",
+                Data = "Dati sensibili ADMIN"
+            });
         }
     }
 }

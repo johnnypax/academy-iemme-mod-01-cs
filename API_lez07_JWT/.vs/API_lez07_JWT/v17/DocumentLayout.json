@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\filters\\autorizzautentepertipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\filters\\autorizzautentepertipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\api_lez07_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\api_lez07_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Risposta.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Models\\Risposta.cs",
+              "RelativeDocumentMoniker": "API_lez07_JWT\\Models\\Risposta.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Models\\Risposta.cs",
+              "RelativeToolTip": "API_lez07_JWT\\Models\\Risposta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:32:39.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "API_lez07_JWT\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "API_lez07_JWT\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:29:50.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorizzaUtentePerTipo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
+              "RelativeDocumentMoniker": "API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
+              "RelativeToolTip": "API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:11:45.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API_lez07_JWT",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
+              "RelativeDocumentMoniker": "API_lez07_JWT\\API_lez07_JWT.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
+              "RelativeToolTip": "API_lez07_JWT\\API_lez07_JWT.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T10:10:52.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserLogin.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Models\\UserLogin.cs",
               "RelativeDocumentMoniker": "API_lez07_JWT\\Models\\UserLogin.cs",
@@ -39,26 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "API_lez07_JWT\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "API_lez07_JWT\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwA4AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T08:29:50.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Program.cs",
               "RelativeDocumentMoniker": "API_lez07_JWT\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Program.cs",
               "RelativeToolTip": "API_lez07_JWT\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAADgAAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T08:11:22.557Z",
               "EditorCaption": ""

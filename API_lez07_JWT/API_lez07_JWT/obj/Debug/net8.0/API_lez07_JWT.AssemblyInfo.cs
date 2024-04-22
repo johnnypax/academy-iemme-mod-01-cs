@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_lez07_JWT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b96abffddea1da9ea292a96c53817d72e2c908aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+004b4542e761ffec3a0b2165dc325224d1dc91cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_lez07_JWT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_lez07_JWT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
