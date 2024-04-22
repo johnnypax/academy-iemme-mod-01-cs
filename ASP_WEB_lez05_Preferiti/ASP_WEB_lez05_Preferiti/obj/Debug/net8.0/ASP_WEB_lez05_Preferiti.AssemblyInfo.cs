@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_WEB_lez05_Preferiti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ffe1be73bd546b1edd116b1fee674f6e22b1ddf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b96abffddea1da9ea292a96c53817d72e2c908aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_WEB_lez05_Preferiti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_WEB_lez05_Preferiti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|solutionrelative:asp_lez03_ef_manuale_ferramenta\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|c:\\users\\academy\\source\\repos\\asp_lez05_ferramenta_dto\\asp_lez03_ef_manuale_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|solutionrelative:asp_lez03_ef_manuale_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|c:\\users\\academy\\source\\repos\\asp_lez05_ferramenta_dto\\asp_lez03_ef_manuale_ferramenta\\models\\ferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|solutionrelative:asp_lez03_ef_manuale_ferramenta\\models\\ferramentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,8 +58,7 @@
               "RelativeToolTip": "ASP_lez03_EF_Manuale_Ferramenta\\Services\\IService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T12:52:28.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T12:52:28.269Z"
             },
             {
               "$type": "Document",
@@ -88,8 +83,7 @@
               "RelativeToolTip": "ASP_lez03_EF_Manuale_Ferramenta\\Services\\ProdottoService.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAuwDsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T10:04:30.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T10:04:30.639Z"
             },
             {
               "$type": "Document",
@@ -101,12 +95,11 @@
               "RelativeToolTip": "ASP_lez03_EF_Manuale_Ferramenta\\Controllers\\ProdottoController.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAowCcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T08:52:11.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T08:52:11.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez05_Ferramenta_DTO\\ASP_lez03_EF_Manuale_Ferramenta\\appsettings.json",
               "RelativeDocumentMoniker": "ASP_lez03_EF_Manuale_Ferramenta\\appsettings.json",
@@ -118,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez05_Ferramenta_DTO\\ASP_lez03_EF_Manuale_Ferramenta\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ASP_lez03_EF_Manuale_Ferramenta\\Properties\\launchSettings.json",
@@ -130,19 +123,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez05_Ferramenta_DTO\\ASP_lez03_EF_Manuale_Ferramenta\\Program.cs",
-              "RelativeDocumentMoniker": "ASP_lez03_EF_Manuale_Ferramenta\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez05_Ferramenta_DTO\\ASP_lez03_EF_Manuale_Ferramenta\\Program.cs",
-              "RelativeToolTip": "ASP_lez03_EF_Manuale_Ferramenta\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T08:10:01.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProdottoRepo.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez05_Ferramenta_DTO\\ASP_lez03_EF_Manuale_Ferramenta\\Repos\\ProdottoRepo.cs",
@@ -151,12 +131,11 @@
               "RelativeToolTip": "ASP_lez03_EF_Manuale_Ferramenta\\Repos\\ProdottoRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T08:05:21.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T08:05:21.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "FerramentaContext.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez05_Ferramenta_DTO\\ASP_lez03_EF_Manuale_Ferramenta\\Models\\FerramentaContext.cs",
               "RelativeDocumentMoniker": "ASP_lez03_EF_Manuale_Ferramenta\\Models\\FerramentaContext.cs",
@@ -176,8 +155,7 @@
               "RelativeToolTip": "ASP_lez03_EF_Manuale_Ferramenta\\Models\\Prodotto.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T07:50:51.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T07:50:51.308Z"
             }
           ]
         }

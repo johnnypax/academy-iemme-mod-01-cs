@@ -1,0 +1,6 @@
+@ASP_API_JWT_TEST_HostAddress = http://localhost:5078
+
+GET {{ASP_API_JWT_TEST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
