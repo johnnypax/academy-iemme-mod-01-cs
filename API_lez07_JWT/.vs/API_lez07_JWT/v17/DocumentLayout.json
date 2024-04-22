@@ -46,8 +46,7 @@
               "RelativeToolTip": "API_lez07_JWT\\Models\\Risposta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:32:39.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T10:32:39.037Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "API_lez07_JWT\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Controllers\\HomeController.cs",
               "RelativeToolTip": "API_lez07_JWT\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAACsAAAAUAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwCoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T08:29:50.488Z",
               "EditorCaption": ""
@@ -72,21 +71,19 @@
               "RelativeToolTip": "API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:11:45.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T10:11:45.141Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "API_lez07_JWT",
+              "Title": "API_lez07_JWT.csproj",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
               "RelativeDocumentMoniker": "API_lez07_JWT\\API_lez07_JWT.csproj",
               "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
               "RelativeToolTip": "API_lez07_JWT\\API_lez07_JWT.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-22T10:10:52.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T10:10:52.204Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "API_lez07_JWT\\Models\\UserLogin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T08:31:53.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T08:31:53.631Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "API_lez07_JWT\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAABsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T08:11:22.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T08:11:22.557Z"
             }
           ]
         }
