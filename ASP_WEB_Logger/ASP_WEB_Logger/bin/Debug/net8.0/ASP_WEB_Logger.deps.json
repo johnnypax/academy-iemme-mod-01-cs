@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ASP_WEB_Logger/1.0.0": {
+        "dependencies": {
+          "NLog.Web": "5.3.8"
+        },
+        "runtime": {
+          "ASP_WEB_Logger.dll": {}
+        }
+      },
+      "NLog/5.2.8": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.2.8.2366"
+          }
+        }
+      },
+      "NLog.Web/5.3.8": {
+        "dependencies": {
+          "NLog": "5.2.8"
+        },
+        "runtime": {
+          "lib/net46/NLog.Web.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.3.8.1035"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASP_WEB_Logger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/5.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jAIELkWBs1CXFPp986KSGpDFQZHCFccO+LMbKBTTNm42KifaI1mYzFMFQQfuGmGMTrCx0TFPhDjHDE4cLAZWiQ==",
+      "path": "nlog/5.2.8",
+      "hashPath": "nlog.5.2.8.nupkg.sha512"
+    },
+    "NLog.Web/5.3.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Tv/lpUKntodObvc//dYudHflq/xtfZz9nKTlZNZfyfJtJq3ozO5DWL8zAybjc1URNJkN3kcvot671p+w0PMUlQ==",
+      "path": "nlog.web/5.3.8",
+      "hashPath": "nlog.web.5.3.8.nupkg.sha512"
+    }
+  }
+}
