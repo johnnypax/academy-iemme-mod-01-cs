@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+VJs3ahFVUHXzT7xpoCTdGdiCf782BgJlW67OZOyuFjb/xP3HCnE1PeV0qxrQey2JkkL/nA2K0sGf51KTJhBDw==",
+  "dgSpecHash": "4htlF1Xye9JvBTiZp0WBLNFHRcbQrX73IO8JGop5sS9wJMnkuPY/rvo2VF85jInWWbryJE3iAMHONAoMcUP5vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj",
+  "projectFilePath": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACADEMY\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\ACADEMY\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

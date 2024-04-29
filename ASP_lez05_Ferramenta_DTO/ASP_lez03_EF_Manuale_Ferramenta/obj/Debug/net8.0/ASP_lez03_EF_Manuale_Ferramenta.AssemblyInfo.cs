@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_lez03_EF_Manuale_Ferramenta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae894a691cffe7633b6b919f344189cfc55f3aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2554518a64a478cdcc2e16288f218543566900a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_lez03_EF_Manuale_Ferramenta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_lez03_EF_Manuale_Ferramenta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

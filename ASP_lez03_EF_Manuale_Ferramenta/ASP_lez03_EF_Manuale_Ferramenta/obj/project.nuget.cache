@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "muJeb2mK/Ezd8gC1bmz+ByxAaDKsKl0MiQQdstJ0R4+TeldnMMMV32NOKY7iTaGDg/IdNmWQrUdqvArF1EfaVw==",
+  "dgSpecHash": "wOasz6TvExhUf21IUqFXPbiJ5+F+HCRUI8Ody1DAZ8WeVY9zSujUzVAoZhaZAStqUEu1xJCNYGgUnZhUK1OfDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj",
+  "projectFilePath": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACADEMY\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ACADEMY\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

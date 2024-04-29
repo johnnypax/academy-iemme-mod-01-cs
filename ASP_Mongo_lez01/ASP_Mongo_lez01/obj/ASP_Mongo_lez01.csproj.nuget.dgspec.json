@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj": {}
+    "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj": {
+    "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj",
+        "projectUniqueName": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj",
         "projectName": "ASP_Mongo_lez01",
-        "projectPath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj",
+        "projectPath": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj",
         "packagesPath": "C:\\Users\\ACADEMY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\obj\\",
+        "outputPath": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
