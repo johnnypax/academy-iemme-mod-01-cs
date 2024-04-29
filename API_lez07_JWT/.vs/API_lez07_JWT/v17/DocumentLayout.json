@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\",
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\filters\\autorizzautentepertipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\api_lez07_jwt\\api_lez07_jwt\\filters\\autorizzautentepertipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\filters\\autorizzautentepertipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\api_lez07_jwt\\api_lez07_jwt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\api_lez07_jwt\\api_lez07_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\api_lez07_jwt\\api_lez07_jwt\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\api_lez07_jwt\\api_lez07_jwt\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\source\\repos\\api_lez07_jwt\\api_lez07_jwt\\api_lez07_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\api_lez07_jwt\\api_lez07_jwt\\api_lez07_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{18A165B7-B677-48A7-A856-936292AFD0A5}|API_lez07_JWT\\API_lez07_JWT.csproj|solutionrelative:api_lez07_jwt\\api_lez07_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Risposta.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Models\\Risposta.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Models\\Risposta.cs",
               "RelativeDocumentMoniker": "API_lez07_JWT\\Models\\Risposta.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Models\\Risposta.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Models\\Risposta.cs",
               "RelativeToolTip": "API_lez07_JWT\\Models\\Risposta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,36 +50,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "API_lez07_JWT\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Controllers\\HomeController.cs",
               "RelativeToolTip": "API_lez07_JWT\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T08:29:50.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AutorizzaUtentePerTipo.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
               "RelativeDocumentMoniker": "API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
               "RelativeToolTip": "API_lez07_JWT\\Filters\\AutorizzaUtentePerTipo.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T10:11:45.141Z"
+              "WhenOpened": "2024-04-22T10:11:45.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "API_lez07_JWT.csproj",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
               "RelativeDocumentMoniker": "API_lez07_JWT\\API_lez07_JWT.csproj",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
               "RelativeToolTip": "API_lez07_JWT\\API_lez07_JWT.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -89,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UserLogin.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Models\\UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Models\\UserLogin.cs",
               "RelativeDocumentMoniker": "API_lez07_JWT\\Models\\UserLogin.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Models\\UserLogin.cs",
               "RelativeToolTip": "API_lez07_JWT\\Models\\UserLogin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +100,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Program.cs",
               "RelativeDocumentMoniker": "API_lez07_JWT\\Program.cs",
-              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\Program.cs",
               "RelativeToolTip": "API_lez07_JWT\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAABsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

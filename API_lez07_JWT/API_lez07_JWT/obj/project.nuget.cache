@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J3t4zaDLQVs/k19ggVhqhA0Ka9CqsfNclsgBF8O0+LtWUtKt8SB2l4ru5GMb4Jlq9yJxJETi9jDo+1XtGA0x/Q==",
+  "dgSpecHash": "Wsbl+kpVb9cAS4gQi3039Y9KrhvTGOyo4Ghnf+L5OcWsSCVAaQo5Lil/3btvO3w74HmoRQIabgUDXVwDuuqcsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACADEMY\\source\\repos\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
+  "projectFilePath": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\API_lez07_JWT\\API_lez07_JWT\\API_lez07_JWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACADEMY\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.4\\microsoft.aspnetcore.authentication.jwtbearer.8.0.4.nupkg.sha512",
     "C:\\Users\\ACADEMY\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
