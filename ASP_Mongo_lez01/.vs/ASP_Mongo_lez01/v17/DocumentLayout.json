@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|c:\\users\\academy\\source\\repos\\asp_mongo_lez01\\asp_mongo_lez01\\services\\aziendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|solutionrelative:asp_mongo_lez01\\services\\aziendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|c:\\users\\academy\\source\\repos\\asp_mongo_lez01\\asp_mongo_lez01\\controllers\\aziendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|solutionrelative:asp_mongo_lez01\\controllers\\aziendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|c:\\users\\academy\\source\\repos\\asp_mongo_lez01\\asp_mongo_lez01\\repos\\aziendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|solutionrelative:asp_mongo_lez01\\repos\\aziendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|c:\\users\\academy\\source\\repos\\asp_mongo_lez01\\asp_mongo_lez01\\models\\impiegatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|solutionrelative:asp_mongo_lez01\\models\\impiegatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|c:\\users\\academy\\source\\repos\\asp_mongo_lez01\\asp_mongo_lez01\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|solutionrelative:asp_mongo_lez01\\models\\risposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|c:\\users\\academy\\source\\repos\\asp_mongo_lez01\\asp_mongo_lez01\\models\\impiegato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|solutionrelative:asp_mongo_lez01\\models\\impiegato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|c:\\users\\academy\\source\\repos\\asp_mongo_lez01\\asp_mongo_lez01\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|solutionrelative:asp_mongo_lez01\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|c:\\users\\academy\\source\\repos\\asp_mongo_lez01\\asp_mongo_lez01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|solutionrelative:asp_mongo_lez01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|c:\\users\\academy\\source\\repos\\asp_mongo_lez01\\asp_mongo_lez01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA04B03-FECE-4D98-AA2D-E58F956C54C7}|ASP_Mongo_lez01\\ASP_Mongo_lez01.csproj|solutionrelative:asp_mongo_lez01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Risposta.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Models\\Risposta.cs",
+              "RelativeDocumentMoniker": "ASP_Mongo_lez01\\Models\\Risposta.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Models\\Risposta.cs",
+              "RelativeToolTip": "ASP_Mongo_lez01\\Models\\Risposta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:20:14.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImpiegatoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Models\\ImpiegatoDTO.cs",
+              "RelativeDocumentMoniker": "ASP_Mongo_lez01\\Models\\ImpiegatoDTO.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Models\\ImpiegatoDTO.cs",
+              "RelativeToolTip": "ASP_Mongo_lez01\\Models\\ImpiegatoDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:09:22.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "ASP_Mongo_lez01\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Repos\\IRepo.cs",
+              "RelativeToolTip": "ASP_Mongo_lez01\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:03:00.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AziendaService.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Services\\AziendaService.cs",
+              "RelativeDocumentMoniker": "ASP_Mongo_lez01\\Services\\AziendaService.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Services\\AziendaService.cs",
+              "RelativeToolTip": "ASP_Mongo_lez01\\Services\\AziendaService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAlwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:54:32.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AziendaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Repos\\AziendaRepository.cs",
+              "RelativeDocumentMoniker": "ASP_Mongo_lez01\\Repos\\AziendaRepository.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Repos\\AziendaRepository.cs",
+              "RelativeToolTip": "ASP_Mongo_lez01\\Repos\\AziendaRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:54:19.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Impiegato.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Models\\Impiegato.cs",
+              "RelativeDocumentMoniker": "ASP_Mongo_lez01\\Models\\Impiegato.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Models\\Impiegato.cs",
+              "RelativeToolTip": "ASP_Mongo_lez01\\Models\\Impiegato.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:23:37.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AziendaController.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Controllers\\AziendaController.cs",
+              "RelativeDocumentMoniker": "ASP_Mongo_lez01\\Controllers\\AziendaController.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Controllers\\AziendaController.cs",
+              "RelativeToolTip": "ASP_Mongo_lez01\\Controllers\\AziendaController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:39:25.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_Mongo_lez01\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\Program.cs",
+              "RelativeToolTip": "ASP_Mongo_lez01\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:38:10.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_Mongo_lez01\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ASP_Mongo_lez01\\ASP_Mongo_lez01\\appsettings.json",
+              "RelativeToolTip": "ASP_Mongo_lez01\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T10:33:51.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

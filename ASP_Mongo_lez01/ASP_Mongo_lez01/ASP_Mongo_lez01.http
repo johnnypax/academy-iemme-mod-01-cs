@@ -1,0 +1,6 @@
+@ASP_Mongo_lez01_HostAddress = http://localhost:5142
+
+GET {{ASP_Mongo_lez01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
