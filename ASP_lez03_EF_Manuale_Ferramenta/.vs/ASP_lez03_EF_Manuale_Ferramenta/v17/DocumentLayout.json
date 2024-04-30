@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_lez03_EF_Manuale_Ferramenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\asp_lez03_ef_manuale_ferramenta\\asp_lez03_ef_manuale_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|solutionrelative:asp_lez03_ef_manuale_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\asp_lez03_ef_manuale_ferramenta\\asp_lez03_ef_manuale_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|solutionrelative:asp_lez03_ef_manuale_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\asp_lez03_ef_manuale_ferramenta\\asp_lez03_ef_manuale_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|solutionrelative:asp_lez03_ef_manuale_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\asp_lez03_ef_manuale_ferramenta\\asp_lez03_ef_manuale_ferramenta\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
@@ -41,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\asp_lez03_ef_manuale_ferramenta\\asp_lez03_ef_manuale_ferramenta\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|solutionrelative:asp_lez03_ef_manuale_ferramenta\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|c:\\users\\academy\\desktop\\academy_iem\\academy-iemme-mod-01-cs\\asp_lez03_ef_manuale_ferramenta\\asp_lez03_ef_manuale_ferramenta\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{94B5A279-F42F-4DEE-B2AC-9A04CC1BA50E}|ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta.csproj|solutionrelative:asp_lez03_ef_manuale_ferramenta\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,29 +50,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "database.sql ",
+              "Title": "database.sql",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta\\database.sql",
               "RelativeDocumentMoniker": "ASP_lez03_EF_Manuale_Ferramenta\\database.sql",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta\\database.sql",
               "RelativeToolTip": "ASP_lez03_EF_Manuale_Ferramenta\\database.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-04T09:24:47.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T09:24:47.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProdottoController.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta\\Controllers\\ProdottoController.cs",
               "RelativeDocumentMoniker": "ASP_lez03_EF_Manuale_Ferramenta\\Controllers\\ProdottoController.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta\\Controllers\\ProdottoController.cs",
               "RelativeToolTip": "ASP_lez03_EF_Manuale_Ferramenta\\Controllers\\ProdottoController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T08:52:11.026Z",
               "EditorCaption": ""
@@ -119,13 +114,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProdottoRepo.cs",
               "DocumentMoniker": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta\\Repos\\ProdottoRepo.cs",
               "RelativeDocumentMoniker": "ASP_lez03_EF_Manuale_Ferramenta\\Repos\\ProdottoRepo.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\Academy_IeM\\academy-iemme-mod-01-cs\\ASP_lez03_EF_Manuale_Ferramenta\\ASP_lez03_EF_Manuale_Ferramenta\\Repos\\ProdottoRepo.cs",
               "RelativeToolTip": "ASP_lez03_EF_Manuale_Ferramenta\\Repos\\ProdottoRepo.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAQwDoAAAAJAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowDsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T08:05:21.711Z",
               "EditorCaption": ""
